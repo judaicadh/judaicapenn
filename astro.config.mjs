@@ -44,14 +44,7 @@ export default defineConfig({
                                 termSimilarity: 1.0,
                             },
                             mergeIndex: [
-                                {
-                                    // Same-origin LibGuides bundle
-                                    bundlePath: 'https://judaicadhpenn.org/resources/libguides/pagefind/',
-                                    baseUrl:   'https://judaicadhpenn.org/resources/libguides/',
-                                    indexWeight: 1.0,
-                                    mergeFilter: { site: 'LibGuides' },
-                                    language: 'en',
-                                },
+                         
                                 {
                                     bundlePath: 'https://exhibits.judaicadhpenn.org/pagefind/',
                                     baseUrl: 'https://exhibits.judaicadhpenn.org',
