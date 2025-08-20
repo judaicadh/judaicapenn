@@ -30,6 +30,7 @@ export default defineConfig({
         logo: {
           src: './src/assets/pomegranate.svg',
         },
+
           favicon: './assets/images/favicon.ico',
 
                         pagefind: {
@@ -50,6 +51,12 @@ export default defineConfig({
                             ],
                         },
 
+          sidebar: [
+              {
+                  label: "LibGuides",
+                  autogenerate: { directory: "guides" }, // looks in src/content/docs/guides/**
+              },
+          ],
       }
 
   )],

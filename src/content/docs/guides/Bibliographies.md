@@ -1,0 +1,92 @@
+---
+title: Bibliographies & Studies
+---
+
+## Bibliographies
+
+-   [ABSEES - The American Bibliography of Slavic and East European Studies](http://www.library.uiuc.edu/absees/) (University of Illinois at Urbana-Champaign)
+-   [Annotated Bibliography and Guide to Archival Resources on the History of Jewish Women in America](http://www.library.wisc.edu/libraries/WomensStudies/jewwom/jwmain.htm) - ) Phyllis Holman Weisbard
+-   [Annotated Parthia Bibliography](http://parthia.com/parthia_biblio.htm) ([Parthia.com](http://parthia.com/))
+-   [A Basic Bibliography of the Genizah Collection](http://www.lib.cam.ac.uk/Taylor-Schechter/Bibliography.html) (Taylor-Schechter Geniza Project)
+-   [Bibliographic Archives, Comprehensive Aramaic Lexicon](http://cal1.cn.huc.edu/bibliography/index.html) (Hebrew Union College)
+-   [BIBLIOGRAPHIE zur Geschichte der Juden in den bvhmischen Ldndern, der Tschechoslowakei bzw. Tschechiens im 19. und 20. Jahrhundert](http://www.collegium-carolinum.de/doku/lit/juedg/bibl-jud-a.htm) Zusammengestellt von Robert Luft (Collegium Carolinum : Forschungsstelle f|r die bvhmischen Ldnder )
+-   [Bibliography of Books and Articles in Latin American Jewish Studies 1991-96](http://www2.h-net.msu.edu/%7Elatam/bibs/lajbib.htm) (Judith Laikin Elkin, editor and compiler - University of Michigan)
+-   [Bibliography of Books and Articles in Latin American Jewish Studies 1997-98](http://www2.h-net.msu.edu/%7Elatam/bibs/lajsbib2.htm) (Judith Laikin Elkin, editor and compiler - University of Michigan)
+-   [Bibliography of Holocaust Literature](http://www.umass.edu/judaic/hololit.html), University of Massachusetts at Amherst
+-   [Bibliography of Jewish Womens' Resources](http://aleph.lib.ohio-state.edu/www/jewomen.html), Compiled by: Tsiporah Wexler-Pashkoff
+-   [Bibliography of Sources on Sexual and Domestic Violence in the Jewish Community](http://www.umn.edu/mincava/bibs/jewish.htm)
+-   [Bibliography of South African Jewry](http://www.lib.uct.ac.za/jewish/sajb.php3), Veronica Belling (Kaplan Centre for Jewish Studies and Research)
+-   [Bibliography Of Ugaritic Grammar And Biblical Hebrew Grammar In The Twentieth Century](http://oi.uchicago.edu/OI/DEPT/RA/bibs/BH-Ugaritic.html), Mark S. Smith (Oriental Institute Research Archives, University of Chicago)
+-   [Bibliography of Works Pertaining to the Study of Targum](http://faculty.washington.edu/snoegel/targumbiblio.html) (Alex Jassen and Joe Angel [Okeanos](http://faculty.washington.edu/snoegel/okeanos.html))
+-   [Bibliography on Music in the Ancient Near Eastern and Mediterranean Worlds](http://faculty.washington.edu/snoegel/music.html) (Scott B. Noegel, University of Washington)
+-   [Bibliography on Word Play in the Hebrew Bible and Other Ancient Near Eastern Literature](http://faculty.washington.edu/snoegel/wordplay.html) (Scott B. Noegel, University of Washington)
+-   [Christians and Jews in the Middle Ages: A Bibliography](http://orb.rhodes.edu/bibliographies/Xnjewbib.html) , Compiled by Patrick Nugent, Edited by Dawn Marie Hayes (ORB Online Encyclopedia)
+-   [Dead Sea Scrolls Bibliography](http://www.nabcebs.ab.ca/OT-net/DSS/dss_biblio.html) from the Orion Center, Hebrew University
+-   [First Steps: an Introductory Bibliography in Medieval Jewish History](http://orb.rhodes.edu/encyclop/religion/Judaism/basicjud.html), Compiled by Elka Klein (ORB Online Encyclopedia)
+-   [Hebrewbooks.org - The Society for the Preservation Of Hebrew Books](http://www.hebrewbooks.org/) - Out of print Hebrew works by early 20th Century American Rabbis, in PDF format.
+-   [Index of Articles on Ladino (Judeo-Spanish) Language](http://sephardicstudies.org/a1.html) ([Foundation for the Advancement of Sephardic Studies and Culture](http://sephardicstudies.org/))
+-   [Infofile on Genealogical and Historical Research on Jewish Families from Izmir (formerly Smyrna), Turkey](http://www.jewishgen.org/SefardSIG/izmir_infofile.htm), Mrs. Laurence Abensur-Hazan (JewishGen)
+-   [JACS Bibliography](http://www.jacsweb.org/Library/Bibliography/cover.html) (Jewish Alcoholics, Chemically Dependent Persons, and Significant Others)
+-   [Jewish Life and Philosophy on the Continent before 1215: A Bibliography](http://orb.rhodes.edu/encyclop/religion/Judaism/contjews.html), Compiled by Sharan Newman (ORB Online Encyclopedia)
+-   [Jewish Magic Bibliography](http://faculty.washington.edu/snoegel/jmbtoc.htm) , Compiled by Alex Jassen, University of Washington
+-   [Jewish Music-a select bibliography](http://www.zamir.org/resources/Biblio.html) (Zamir Chorale of Boston)
+-   [Jewish Music WebCenter - Bibliography of Biographies](http://www.jmwc.org/)
+-   [Jews in Medieval England: A Bibliography](http://orb.rhodes.edu/encyclop/religion/Judaism/Engjews.html), Compiled by Christoph Cluse (ORB Online Encyclopedia)
+-   [Medieval Jewish Women in History, Literature, Law, and Art: An Annotated Bibliography](http://orb.rhodes.edu/encyclop/religion/Judaism/jew-wom.html), Compiled by Cheryl Tallan (ORB Online Encyclopedia)
+-   [Midrash Bibliography](http://www.huc.edu/midrash/) - Hebrew Union College
+-   [Music in the Holocaust-A Select Bibliography](http://www.zamir.org/resources/holocaust.html) (Zamir Chorale of Boston)
+-   [Pennsylvania Holocaust Education Task Force](http://www.hetf.org/)
+-   [Rav-SIG Rabbinic Genealogy Special Interest Group](http://www.jewishgen.org/Rabbinic/infofiles/biblio.htm) - An indexed bibliography of more than 300 resources for rabbinic genealogical research
+-   [The Steinschneider Bibliographical Database](http://www.mith.umd.edu/steinschneider/index.html) - A Digital and Bibliographical Framework for Research into Pre-Modern Hebrew Works in Philosophy, Science, and Belles-Lettres (Charles H. Manekin, Project Director - Maryland Institute for Technology in the Humanities)
+-   [Targum and Peshitta Bibliography](http://www.tulane.edu/%7Entcs/bibliography.htm)
+-   [Yiddish: A Basic Bibliography](http://www.ts-cyberia.net/bibliography_y.html) (Tsuguya Sasaki)
+
+## Studies
+
+-   [ABZU - The Research Archives of the Oriental Institute, University of Chicago](http://www-oi.uchicago.edu/OI/DEPT/RA/ABZU/ABZU.HTML)
+-   [Assyrian Historiography a Source Study](http://www.cwru.edu/UL/preserve/stack/AssyrianHist.html), by Albert Ten Eyck Olmstead, (Library Preservation Department, Case Western Reserve University Digital Library)
+-   [Business Ethics Library and Resource Center](http://besr.org/library/) (Center for Business Ethics and Social Responsibility - Jerusalem College of Technology)
+-   [Comprehensive Aramaic Lexicon](http://cal1.cn.huc.edu/) (Hebrew Union College)
+-   [The Corpus of Spoken Israeli Hebrew (CoSIH)](http://spinoza.tau.ac.il/hci/dep/semitic/cosih.html)
+-   [Creating a Yeshiva High School Library](http://www.jewishlibraries.org/dr/index.htm) presented by Diane Romm and Joyce Levine
+-   [Cuneiform Digital Library Initiative](http://cdli.ucla.edu/) (UCLA/Max Planck Institute for the History of Science)
+-   [Da'at](http://www.daat.ac.il/index.htm) - online repertory of articles in Jewish Studies (in Hebrew - searchable)
+-   [Dead Sea Scrolls Project](http://www-oi.uchicago.edu/OI/PROJ/SCR/Scrolls.html), University of Chicago
+-   [Dedication to Spinoza's Insights](http://www.yesselman.com/) (Joseph B. Yesselman)
+-   [Digitization of Jewish Periodicals in the German Language Area](http://www.compactmemory.rwth-aachen.de/navigation/) ([Click here for project description](http://www.dbi-berlin.de/projekte/d_lib/einzproj/retrodig/p22gb.htm)), Deutsche Forschungsgemeinschaft, in co-operation with the Sondersammelgebiet Wissenschaft des Judentums der Stadt- und Universitdtsbibliothek Frankfurt/Main and the Bibliothek Germania Judaica Kvln
+-   ["Dust and Ashes": The Funeral and Forgetting of Sabato Morais](http://muse.jhu.edu/demo/ajh/84.3kiron.html) - Arthur Kiron (American Jewish History 84.3 (1996) 155-188 )
+-   [Early Printed Passover Haggadah: a Tale of Four Cities: Prague, Mantua, Venice, Amsterdam](http://ifla.inist.fr/IV/ifla64/069-150e.htm) (Nannette Stahl, Yale University Library)
+-   [Hebrew Printing in Livorno](http://www.sefarad.org/publication/lm/033/23.html) (Marvin J. Heller, [Los Muestros](http://www.sefarad.org/publication/lm/index.html))
+-   [Judaica Americana](http://sefer.jtsa.edu:4505/ALEPH/-/start/PAMPHLETS) - Ephemeral pamphlets published in the United States between 1725 and 1900  
+    from the Library of the Jewish Theological Seminary
+-   [Judeo-Italian: Description of Medieval Koini](http://www.orbilat.com/Modern_Romance/Italo-Romance/Italkian/Italkian.html) (Seth Jerchower)
+-   [Judeo-Spanish Press](http://www.mikvehisrael.org/fsc/sephpres.html), by Aviva Ben-Ur (Jewish Women in America: An Historical Encyclopedia, ) Routledge, 1997, and American Jewish Historical Society, 1998)
+-   [La Ienti de Sion: Linguistic and Cultural Legacy of an Early Thirteenth-Century Judeo-Italian Kinah](http://petrarch.freeservers.com/levi/index.html) (Joseph Abraham Levi, University of Iowa; appeared in: _Italica_ 1, Spring (1998): 1-21)
+-   [Jewish National and University Library - Ketubbot Collection](http://jnul.huji.ac.il/dl/ketubbot/) - David and Fela Shappel Family Digitalization Project
+-   [Jewish South African Special Interest Group](http://www.jewishgen.org/SAfrica/) (JewishGen)
+-   [The Kabbalah](http://www.kheper.auz.com/topics/Kabbalah/Kabbalah.htm)
+-   [Leghorn: Center of Immigration of the Sefardic Jews to America, 17th century](http://www.sefarad.org/publication/lm/036/8.html) (Mordechai Arbell)
+-   [Leuven database of ancient books](http://ldab.arts.kuleuven.ac.be/) - Database of information on all ancient literary Greek and Roman texts dating from the fourth century B.C.E. to C.E. 800, and incorporating authors from Homer (8th cent. B.C.E.) to Romanus Melodus (6th cent. C.E.)
+-   [Life in Saskatchewan from a Jewish View](http://www.niedermayer.ca/%7Eral/history/index.html), by [Rebecca Landau](http://www.niedermayer.ca/%7Eral/), Librarian, Philadelphia
+-   [The "Livornina", Florence, 1593](http://sceti.library.upenn.edu/) - Charter of toleration ([SCETI](http://sceti.library.upenn.edu/))
+-   [Mapping the Holocaust](http://www.ushmm.org/museum/exhibit/focus/maps/) - A Digital Project of the US Holocaust Memorial Museum
+-   [Medieval Jews and Judaism - A Guide to Online Resources](http://orb.rhodes.edu/encyclop/religion/Judaism/judaism.html), Edited by Elka Klein (ORB Online Encyclopedia)
+-   [Menasseh Ben Israel Project](http://cf.uba.uva.nl/en/collections/rosenthaliana/menasseh/) - A Digital Collection at the Bibliotheca Rosenthaliana, University of Amsterdam
+-   [Mendele](http://www2.trincoll.edu/%7Emendele/) - Forum for Yiddish Literature and Yiddish Language
+-   [Okeanos](http://faculty.washington.edu/snoegel/okeanos11.html) - Website for Biblical, Classical, and Ancient Near Eastern Studies Philological Resources (Scott B. Noegel, University of Washington)
+-   [Judith Peixotto (1823-1881), first Jewish principal in the City of New York](http://www.mikvehisrael.org/fsc/sephpres.html), by Aviva Ben-Ur (Jewish Women in America: An Historical Encyclopedia, ) Routledge, 1997, and American Jewish Historical Society, 1998)
+-   [Nuremberg Project - Nuremberg Trial Documents from the William J. Donovan Collection](http://camlaw.rutgers.edu/publications/law-religion/nuremberg.htm) (Cornell University School of Law Library - Rutgers Journal of Law and Religion)
+-   [Palestine Post (1932-1950) - Searchable Database with full edition and article retrieval](http://kipp.tau.ac.il/), Laura Schwarz-Kipp Institute for Advanced Technology in the Humanities, Tel Aviv University
+-   [Parthia.com](http://parthia.com/), site dedicated to studies on the Parthian Empire
+-   [Rebecca Machado Phillips (1746-1831), Pioneering Leader in Jewish and Secular American Communal Life](http://www.mikvehisrael.org/fsc/machado.html), by Aviva Ben-Ur (Jewish Women in America: An Historical Encyclopedia, ) Routledge, 1997, and American Jewish Historical Society, 1998)
+-   [Princeton Geniza Research Unit](http://www.princeton.edu/%7Egeniza/)
+-   [SAHD Project - Semantics of Ancient Hebrew Database](http://www.sahd.uklinux.net/) (University of Bonn, University of Cambridge, University of Edinburgh, University of Florence, University of Leiden, University of Leuven, University of Oxford, University of Paris, and University of Rome)
+-   [Sephardi/Mizrahi Studies Caucus](http://www.princeton.edu/%7Ersimon/ssc.htm) - for the promotion and integration of Sephardi and Mizrahi Studies into general Jewish Studies, both in teaching and in scholarship (Rachel Simon, Princeton University)
+-   [Spoken Yiddish Language Project](http://www.columbia.edu/cu/cria/Current-projects/Yiddish/yiddish.html) - Columbia University
+-   [Studies in Jewish Prayer](http://andromeda.rutgers.edu/%7Ezahavy/studies.html) (Tzvee Zahavy )
+-   [Taylor-Schechter Geniza Project](http://www.lib.cam.ac.uk/Taylor-Schechter/), Cambridge University Library
+-   [United States: Hebrew manuscripts and incunabula](http://www.ifla.org/IV/ifla66/papers/082-141e.htm), by William Baker, Founder's Memorial Library, Northern Illinois University
+-   [Walter Benjamin Research Syndicate](http://www.wbenjamin.org/walterbenjamin.html)
+-   [West Semitic Research Project](http://www.usc.edu/dept/LAS/wsrp/index.html) , University of Southern California School of Religion
+-   [Wolf Lewkowicz Collection](http://web.mit.edu/maz/wolf) - Correspondence between a Polish Jew and his nephew in the United States between the years of 1922 and 1939
+-   [Yiddish Radio Project: On the Air](http://www.yiddishradioproject.org/) - history of Yiddish radio

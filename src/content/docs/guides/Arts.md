@@ -1,31 +1,55 @@
 ---
-title: "arts"
+title: "Arts"
 
 ---
--   [Penn Judaic Studies Program Book Dealers Links](https://web.archive.org/web/20191023200808/http://ccat.sas.upenn.edu/jwst/links.htm#book)
--   [Publishers of Books Related to Jewish Studies](https://web.archive.org/web/20191023200808/http://www.hum.huji.ac.il/dinur/links/publishers__books_on_jewish_st.htm) - The Dinur Center for Research in Jewish History, Hebrew University
--   [ABAA - Antiquarian Booksellers' Association of America](https://web.archive.org/web/20191023200808/http://abaa.org/)
--   [AJBP - Association of Jewish Book Publishers](https://web.archive.org/web/20191023200808/http://www.avotaynu.com/ajbp.html)
--   [AltaMira Press](https://web.archive.org/web/20191023200808/http://www.altamirapress.com/) - Focuses on professional research in communal cultural life -- the museum, historical society, arts center, and church
--   [Anna Olswanger Books | Jewish Book Publishing News](https://web.archive.org/web/20191023200808/http://www.olswanger.com/)
--   [Bosphorus Books](https://web.archive.org/web/20191023200808/http://www.igc.org/hollychase/boshome.html)
--   [Broder's Rare & Used Books -- Judaica Page](https://web.archive.org/web/20191023200808/http://members.aol.com/bookssss/judaica.html)
--   [eBookShuk](https://web.archive.org/web/20191023200808/http://www.ebookshuk.com/) - Jewish-interest books for Computer-assisted Reading and Research
--   [Eisenbrauns](https://web.archive.org/web/20191023200808/http://www.eisenbrauns.com/) Publisher and Bookdealer - Specializing in the Ancient Near East and Biblical Studies since 1975
--   [Facsimile Editions Ltd., London](https://web.archive.org/web/20191023200808/http://www.facsimile-editions.com/), specializing in high quality facsimile production of important illuminated Hebrew manuscripts
--   [La Giuntina Editrice](https://web.archive.org/web/20191023200808/http://www.giuntina.it/) - Florence, Italy. Foremost source of Judaica in Italian
--   [Hatikvah Music International](https://web.archive.org/web/20191023200808/http://www.hatikvahmusic.com/)
--   [Henry Hollander, Bookseller](https://web.archive.org/web/20191023200808/http://www.hollanderbooks.com/) - Specializing inJudaica, Antiquarian & Scholarly Books
--   [Ideal Book Store](https://web.archive.org/web/20191023200808/http://www.idealbooks.com/) - A major source of books in the Judaica Subject In Print and Out of Print books
--   [Israelowitz Publishing](https://web.archive.org/web/20191023200808/http://www.israelowitzpublishing.com/) - Books on Jewish New York and Catskills.
--   [Jerusalem Books Ltd.](https://web.archive.org/web/20191023200808/http://www.jerusalembooks.co.il/) - Specialized in supplying all Israeli books and publications
--   [John Trotter Books](https://web.archive.org/web/20191023200808/http://www.bibliophile.net/John-Trotter-Books.htm) - Searchable index; with large stock of rare and secondhand Judaica from the 16th century to the present
--   [Libreria Archeologica](https://web.archive.org/web/20191023200808/http://www.archeologica.com/) - offering publications covering prehistoric to medieval times, especially in near east and mediterranean studies.
--   [The Museum Bookshop](https://web.archive.org/web/20191023200808/http://www.themuseumbookshop.com/), London. New, second-hand and antiquarian books on Archaeology, Egyptology, and Ancient Near Eastern Studies
--   [Robinson Books](https://web.archive.org/web/20191023200808/http://www.robinson.co.il/eindex.html) - Since 1889; online catalogue of new, rare, and hard-to-find books
--   [Schechter Books](https://web.archive.org/web/20191023200808/http://www.schechter.edu/bookstore/schbooks.htm) - Responsa, Halakha, and other publications from the Masorti Movement
--   [Sounds Write Productions](https://web.archive.org/web/20191023200808/http://www.soundswrite.com/), Contemporary Jewish Music with RealAudio samples
--   [Steimatzky Books USA](https://web.archive.org/web/20191023200808/http://www.stmus.com/)
--   [Virtual Geula](https://web.archive.org/web/20191023200808/http://www.virtualgeula.com/index.htm) - "The Source for Virtually every Sefer"
--   [A. I. Weinberg Book Agency](https://web.archive.org/web/20191023200808/http://www.aiweinberg.com/)
--   [Dan Wyman, Books](https://web.archive.org/web/20191023200808/http://www.danwymanbooks.com/) \- Specialists in out-of-print Jewish, Radical and Ethnic History
+## Fine Arts
+- [Ariel - The Israel Review of Arts and Letters](https://mfa.gov.il/MFA/MFA-Archive/2003/Pages/ARIEL%20-%20The%20Israel%20Review%20of%20Arts%20and%20Letters.aspx)
+-   [Ein Hod Artists Village](https://ein-hod.info/)
+-   [The National Library of Israel - David & Fela Shappel Family Digitization Project](https://web.nli.org.il/sites/nli/english/digitallibrary/pages/shapell-digitization-project.aspx)
+-   [Medieval Jewish Women in History, Literature, Law, and Art: An Annotated Bibliography](https://the-orb.arlima.net/encyclop/religion/judaism/jew-wom.html), Compiled by Cheryl Tallan (The Online Reference Book for Medieval Studies)
+-   [Museums and Virtual Exhibits](https://guides.library.upenn.edu/judaica-resources/museums)
+-   [Chassidic Art Institute - Samuel Rothbort Collection](https://www.chaiartgallery.com/samuel-rothbort)
+
+## Music
+
+-   [The Leonard Bernstein Collection](http://memory.loc.gov/ammem/lbhtml/lbhome.html) - [Music Division, Library of Congress](http://lcweb.loc.gov/rr/perform/)
+-   [The Aaron Copland Collection](http://memory.loc.gov/ammem/achtml/achome.html) - [Music Division, Library of Congress](http://lcweb.loc.gov/rr/perform/)
+-   [Chazzanut Online](http://www.chazzanut.com/) - Online archive of scores and documents
+-   [Dartmouth Jewish Sound Archive](http://www.dartmouth.edu/%7Edjsa/) - Web-based access to Jewish recordings that are not commercially available
+-   [Harvey Sheldon Jewish American Music Video Research Library](https://www.library.upenn.edu/collections/special-notable/single/harvey-sheldon-jewish-american-music-video-research-library)
+-   [The Irving Fine Collection](http://memory.loc.gov/ammem/ifhtml/) - [Music Division, Library of Congress](http://lcweb.loc.gov/rr/perform/)
+-   [Jewish Music-a select bibliography](https://zamir.org/resources/bibliography/) (Zamir Chorale of Boston)
+-   [The Jewish Music Institute](https://www.jmi.org.uk/), University of London
+-   [The Jewish Music Research Center](https://www.jewish-music.huji.ac.il/) (Jewish National and University Library, The Hebrew University of Jerusalem)
+-   [Jewish Music WebCenter](http://www.jmwc.org/) - The most comprehensive and up to date site for Jewish music resources
+-   [Jewish Music WebCenter - Bibliography of Biographies](http://jmwc.org/for-your-bookshelf/)
+-   [The KlezmerShack](http://www.klezmershack.com/) (Ari Davidow)
+-   [Libraries with Jewish Music Collections](http://jmwc.org/jewish-libraries-and-archives/) (Jewish Music WebCenter)
+-   [Min-ad: Israel Studies in Musicology Online](https://www2.biu.ac.il/hu/mu/min-ad/) (Israel Musicological Society)
+-   [Music in the Holocaust-A Select Bibliography](https://zamir.org/resources/bibliography-music-holocaust/) (Zamir Chorale of Boston)
+-   [Music of Salomone Rossi](https://zamir.org/resources/music-of-salamone-rossi/) (Zamir Chorale of Boston)
+-   [National Sound Archives, Jewish National and University Library - Hebrew Only](https://merhav.nli.org.il/primo-explore/search?sortby=rank&vid=NLI&lang=iw_IL)
+-   [Robert and Molly Freedman Jewish Music Archive](http://sceti.library.upenn.edu/freedman), SCETI, University of Pennsylvania Library
+-   [Sephardic and Mizrahi music and musicology](https://www.judithcohen.ca/audio), with RealAudio samples (Judith Cohen)
+-   [Web Resources for Jewish Music](http://jmwc.org/web-resources/) (Jewish Music WebCenter)
+-   [YidishMusic WebRadio](http://www.yidishmusic.com.br/) Live and downloads from Brazil - Spreading the Jewish Culture through its music (Portuguese/English)
+-   [Zamir Chorale of Boston](http://www.zamir.org/)
+
+## Performing Arts
+
+-   [Jewish Broadcasting Service](https://www.jbstv.org/)
+-   [Jewish Theater](http://www.jewishculture.org/theater.htm) (National Foundation for Jewish Culture)
+-   [Jewish Theater in the Philadelphia Area](http://www.phljnet.org/pages/pag_theat.html) (Jewish Federation of Greater Philadelphia)
+-   [Yiddish Language Playscripts in the Library of Congress](http://lcweb2.loc.gov/ammem/vshtml/vsyid.html)
+-   [The Yiddish Radio Project](http://yiddishradioproject.org/) - history of Yiddish radio
+
+## Cinema
+
+-   [JewishFilm.com - The Jewish Film Archive online](http://members.aol.com/jewfilm/)
+-   [Jewish Film](http://www.jewishculture.org/film.htm) (National Foundation for Jewish Culture)
+-   [Jewish Film Festivals Worldwide](http://www.sfjff.org/guide/jffswwlist.php3) (San Francisco Jewish Film Festival)
+-   [Latino/Jewish Film Festival and Lecture Series](http://www.umass.edu/newsoffice/archive/2001/101101film.html)(University of Massachusetts, Amherst - Fall 2001)
+-   [The New Jersey Jewish Film Festival](http://www.njjff.org/index.htm)
+-   [The San Francisco Jewish Film Festival Online Guide to Films](http://www.sfjff.org/guide/index.html)
+-   [The San Francisco Jewish Film Festival Web Site Archives](http://www.sfjff.org/sfjff/archives.html)
+-   [The Steven Spielberg Jewish Film Archive](http://sites.huji.ac.il/jfa/jfa.htm) (Hebrew University, Jerusalem)
