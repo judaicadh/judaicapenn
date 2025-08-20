@@ -64,14 +64,7 @@ export default defineConfig({
                                     language: 'en',
                                 },
 
-                                // Example: External partner (must be built with Pagefind + publicly serving its bundle)
-                                {
-                                    bundlePath: 'https://judaicadhpenn.org/guides/pagefind/',
-                                    baseUrl: 'https://judaicadhpenn.org/guides',
-                                    indexWeight: 0.8,
-                                    mergeFilter: { site: 'Lib Guides ' },
-                                    language: 'en',
-                                },
+
                             ],
                         },
 
