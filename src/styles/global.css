@@ -238,3 +238,16 @@ h1, h2, h3, h4, h5, h6, span {
 body {
     font-family: 'Spectral', serif;
 }
+.search-box .pagefind-ui__search-input {
+    background-color: white;          /* visible in light mode */
+    color: black;
+    border: 1px solid #d1d5db;        /* Tailwind gray-300 */
+    border-radius: 0.375rem;          /* Tailwind rounded-md */
+    padding: 0.5rem 0.75rem;
+}
+
+.dark .search-box .pagefind-ui__search-input {
+    background-color: #1f2937;        /* Tailwind gray-800 */
+    color: #f9fafb;                   /* Tailwind gray-50 */
+    border: 1px solid #374151;        /* Tailwind gray-700 */
+}
