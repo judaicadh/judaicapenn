@@ -1,12 +1,4 @@
 @import "tailwindcss";
-@import '@astrojs/starlight-tailwind';
-@import 'tailwindcss/theme.css' layer(theme);
-@import 'tailwindcss/utilities.css' layer(utilities);
-@import "flowbite/src/themes/default.css" layer(theme) ;
-
-@plugin "flowbite/plugin";
-
-@layer base, starlight, theme, components, utilities;
 
 @import "flowbite/src/themes/default.css";
 
