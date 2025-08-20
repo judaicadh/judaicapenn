@@ -1,9 +1,12 @@
 @import "tailwindcss";
 
 @import "flowbite/src/themes/default.css";
-@plugin "daisyui";
+@import 'tailwindcss/theme.css' layer(theme);
+@import '@astrojs/starlight-tailwind';
+@import 'tailwindcss/utilities.css' layer(utilities);
 
 @plugin "flowbite/plugin";
+@layer base, starlight, theme, components, utilities;
 
 @font-face {
     font-family: 'Spectral';

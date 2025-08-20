@@ -15,6 +15,7 @@
     "@astrojs/react": "^4.3.0",
     "@astrojs/sitemap": "^3.5.0",
     "@astrojs/starlight": "^0.35.2",
+    "@astrojs/starlight-tailwind": "^4.0.1",
     "@astrolib/analytics": "^0.6.1",
     "@digi4care/astro-google-tagmanager": "^1.6.0",
     "@fontsource-variable/archivo-narrow": "^5.2.6",
