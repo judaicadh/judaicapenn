@@ -9,7 +9,7 @@
   from = "/_astro/*"
   to = "/_astro/:splat"
   status = 200
-  
+
 # example netlify.toml
 [build]
   command = "npm run build"
