@@ -32,7 +32,7 @@ export default defineConfig({
         logo: {
           src: './src/assets/pomegranate.svg',
         },
-          customCss: [ './src/styles/global.css',
+          customCss: [ './src/styles/starlight.css',
           ],
           favicon: './assets/images/favicon.ico',
 
@@ -44,7 +44,7 @@ export default defineConfig({
                                 termSimilarity: 1.0,
                             },
                             mergeIndex: [
-                         
+
                                 {
                                     bundlePath: 'https://exhibits.judaicadhpenn.org/pagefind/',
                                     baseUrl: 'https://exhibits.judaicadhpenn.org',
