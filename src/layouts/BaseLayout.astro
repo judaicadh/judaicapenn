@@ -1,0 +1,34 @@
+---
+import '../styles/global.css';
+import Footer from '../components/footer.astro';
+import { GoogleTagmanagerPartytown, SiteVerification } from '@digi4care/astro-google-tagmanager';
+import Navbar from "../components/navbar.astro";
+---
+
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="icon" type="image/png+xml" href="/favicon-32x32.png" />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+
+    <SiteVerification id="SITE_VERIFICATION_ID" />
+    <GoogleTagmanagerPartytown id="GTM_MEASUREMENT_ID" />
+</head>
+
+<body class="min-h-screen flex flex-col">
+<Navbar />
+
+<main class="flex-1">
+    <slot />
+</main>
+
+<Footer />
+
+<!-- Load Flowbite AFTER markup so it can find your menu elements -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.js" defer></script>
+</body>
+</html>

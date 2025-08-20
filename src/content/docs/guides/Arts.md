@@ -1,0 +1,31 @@
+---
+title: "arts"
+
+---
+-   [Penn Judaic Studies Program Book Dealers Links](https://web.archive.org/web/20191023200808/http://ccat.sas.upenn.edu/jwst/links.htm#book)
+-   [Publishers of Books Related to Jewish Studies](https://web.archive.org/web/20191023200808/http://www.hum.huji.ac.il/dinur/links/publishers__books_on_jewish_st.htm) - The Dinur Center for Research in Jewish History, Hebrew University
+-   [ABAA - Antiquarian Booksellers' Association of America](https://web.archive.org/web/20191023200808/http://abaa.org/)
+-   [AJBP - Association of Jewish Book Publishers](https://web.archive.org/web/20191023200808/http://www.avotaynu.com/ajbp.html)
+-   [AltaMira Press](https://web.archive.org/web/20191023200808/http://www.altamirapress.com/) - Focuses on professional research in communal cultural life -- the museum, historical society, arts center, and church
+-   [Anna Olswanger Books | Jewish Book Publishing News](https://web.archive.org/web/20191023200808/http://www.olswanger.com/)
+-   [Bosphorus Books](https://web.archive.org/web/20191023200808/http://www.igc.org/hollychase/boshome.html)
+-   [Broder's Rare & Used Books -- Judaica Page](https://web.archive.org/web/20191023200808/http://members.aol.com/bookssss/judaica.html)
+-   [eBookShuk](https://web.archive.org/web/20191023200808/http://www.ebookshuk.com/) - Jewish-interest books for Computer-assisted Reading and Research
+-   [Eisenbrauns](https://web.archive.org/web/20191023200808/http://www.eisenbrauns.com/) Publisher and Bookdealer - Specializing in the Ancient Near East and Biblical Studies since 1975
+-   [Facsimile Editions Ltd., London](https://web.archive.org/web/20191023200808/http://www.facsimile-editions.com/), specializing in high quality facsimile production of important illuminated Hebrew manuscripts
+-   [La Giuntina Editrice](https://web.archive.org/web/20191023200808/http://www.giuntina.it/) - Florence, Italy. Foremost source of Judaica in Italian
+-   [Hatikvah Music International](https://web.archive.org/web/20191023200808/http://www.hatikvahmusic.com/)
+-   [Henry Hollander, Bookseller](https://web.archive.org/web/20191023200808/http://www.hollanderbooks.com/) - Specializing inJudaica, Antiquarian & Scholarly Books
+-   [Ideal Book Store](https://web.archive.org/web/20191023200808/http://www.idealbooks.com/) - A major source of books in the Judaica Subject In Print and Out of Print books
+-   [Israelowitz Publishing](https://web.archive.org/web/20191023200808/http://www.israelowitzpublishing.com/) - Books on Jewish New York and Catskills.
+-   [Jerusalem Books Ltd.](https://web.archive.org/web/20191023200808/http://www.jerusalembooks.co.il/) - Specialized in supplying all Israeli books and publications
+-   [John Trotter Books](https://web.archive.org/web/20191023200808/http://www.bibliophile.net/John-Trotter-Books.htm) - Searchable index; with large stock of rare and secondhand Judaica from the 16th century to the present
+-   [Libreria Archeologica](https://web.archive.org/web/20191023200808/http://www.archeologica.com/) - offering publications covering prehistoric to medieval times, especially in near east and mediterranean studies.
+-   [The Museum Bookshop](https://web.archive.org/web/20191023200808/http://www.themuseumbookshop.com/), London. New, second-hand and antiquarian books on Archaeology, Egyptology, and Ancient Near Eastern Studies
+-   [Robinson Books](https://web.archive.org/web/20191023200808/http://www.robinson.co.il/eindex.html) - Since 1889; online catalogue of new, rare, and hard-to-find books
+-   [Schechter Books](https://web.archive.org/web/20191023200808/http://www.schechter.edu/bookstore/schbooks.htm) - Responsa, Halakha, and other publications from the Masorti Movement
+-   [Sounds Write Productions](https://web.archive.org/web/20191023200808/http://www.soundswrite.com/), Contemporary Jewish Music with RealAudio samples
+-   [Steimatzky Books USA](https://web.archive.org/web/20191023200808/http://www.stmus.com/)
+-   [Virtual Geula](https://web.archive.org/web/20191023200808/http://www.virtualgeula.com/index.htm) - "The Source for Virtually every Sefer"
+-   [A. I. Weinberg Book Agency](https://web.archive.org/web/20191023200808/http://www.aiweinberg.com/)
+-   [Dan Wyman, Books](https://web.archive.org/web/20191023200808/http://www.danwymanbooks.com/) \- Specialists in out-of-print Jewish, Radical and Ethnic History
