@@ -1,3 +1,15 @@
+# Serve Pagefind assets as static files
+[[redirects]]
+  from = "/_pagefind/*"
+  to = "/_pagefind/:splat"
+  status = 200
+
+# (Optional but recommended) keep Astro’s assets static too
+[[redirects]]
+  from = "/_astro/*"
+  to = "/_astro/:splat"
+  status = 200
+  
 # example netlify.toml
 [build]
   command = "npm run build"
