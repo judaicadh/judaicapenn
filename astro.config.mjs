@@ -16,6 +16,8 @@ import markdoc from '@astrojs/markdoc';
 import robotsTxt from 'astro-robots-txt';
 
 import starlight from '@astrojs/starlight';
+import starlightFullViewMode from 'starlight-fullview-mode'
+import starlightUtils from "@lorenzo_lewis/starlight-utils";
 
 // https://astro.build/config
 export default defineConfig({
@@ -30,7 +32,8 @@ export default defineConfig({
         logo: {
           src: './src/assets/pomegranate.svg',
         },
-
+          customCss: [ './src/styles/global.css',
+          ],
           favicon: './assets/images/favicon.ico',
 
                         pagefind: {
@@ -58,7 +61,10 @@ export default defineConfig({
                                 },
                             ],
                         },
-
+plugins: [
+    starlightFullViewMode({}),
+    starlightUtils({}),
+],
           sidebar: [
               {
                   label: "LibGuides",

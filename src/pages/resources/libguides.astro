@@ -1,6 +1,61 @@
 ---
 import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
-import AnchorHeading from '@astrojs/starlight/components/AnchorHeading.astro';
+import { Card, CardGrid, LinkCard, Icon} from '@astrojs/starlight/components';
 
 ---
-<StarlightPage frontmatter={{ title:"LibGuides for Judaic Studies"}}></StarlightPage>
+
+<StarlightPage
+        frontmatter={{
+            title: 'LibGuides for Judaic Studies',
+            template: 'splash',
+            hero: {
+                title: 'LibGuides for Judaic Studies',
+                tagline: 'Curated lists by Penn Libraians for Judaic Studies.',
+            },
+        }}
+>
+    <CardGrid>
+        <LinkCard title="Academic" href="/guides/Academic"  >
+            Resources and guides for academic study in Judaic Studies.
+        </LinkCard>
+        <LinkCard title="Arts" href="/guides/Arts"  >
+            Explore Jewish arts, literature, and creative works.
+        </LinkCard>
+        <LinkCard title="Bibliographies" href="/guides/Bibliographies"  >
+            Curated bibliographies for Judaic research.
+        </LinkCard>
+        <LinkCard title="Culture" href="/guides/Culture" >
+            Cultural perspectives, practices, and community studies.
+        </LinkCard>
+        <LinkCard title="Funding" href="/guides/Funding"  >
+            Grants, fellowships, and financial resources.
+        </LinkCard>
+        <LinkCard title="Gender & Sexuality" href="/GenderSexuality"  >
+            Studies on gender, sexuality, and identity in Jewish contexts.
+        </LinkCard>
+        <LinkCard title="Israel Studies" href="/IsraelStudies" >
+            Research and guides on Israel and related topics.
+        </LinkCard>
+        <LinkCard title="Jews in the Natural Sciences" href="/guides/JewsNaturalSciences" icon="flask">
+            Contributions of Jews in scientific disciplines.
+        </LinkCard>
+        <LinkCard title="Museums" href="/guides/Museums"  >
+            Jewish museums, archives, and cultural heritage institutions.
+        </LinkCard>
+        <LinkCard title="News" href="/guides/News"  >
+            News resources and periodicals in Jewish Studies.
+        </LinkCard>
+        <LinkCard title="Philadelphia" href="/guides/Philadelphia"  >
+            Resources connected to Jewish life in Philadelphia.
+        </LinkCard>
+        <LinkCard title="Syllabi" href="/guides/Syllabi"  >
+            Teaching materials and course syllabi.
+        </LinkCard>
+        <LinkCard title="Texts" href="/guides/Texts"  >
+            Primary sources and classical Jewish texts.
+        </LinkCard>
+        <LinkCard title="Vendors" href="/guides/Vendors"  >
+            Vendors and publishers for Judaica resources.
+        </LinkCard>
+    </CardGrid>
+</StarlightPage>

@@ -19,6 +19,7 @@
     "@digi4care/astro-google-tagmanager": "^1.6.0",
     "@fontsource-variable/archivo-narrow": "^5.2.6",
     "@fontsource/spectral": "^5.2.6",
+    "@lorenzo_lewis/starlight-utils": "^0.3.2",
     "@tailwindcss/vite": "^4.1.12",
     "@types/react": "^19.1.10",
     "@types/react-dom": "^19.1.7",
@@ -29,6 +30,7 @@
     "lodash.merge": "^4.6.2",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "starlight-fullview-mode": "^0.2.3",
     "tailwindcss": "^4.1.12"
   },
   "devDependencies": {
