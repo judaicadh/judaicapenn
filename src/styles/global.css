@@ -1,7 +1,9 @@
- 
+
 @import "tailwindcss";
 
+@import "flowbite/src/themes/default.css" layer(utilities) ;
 
+@plugin "flowbite/plugin";
 
 @font-face {
     font-family: 'Spectral';

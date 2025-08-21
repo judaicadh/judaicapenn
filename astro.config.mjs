@@ -42,7 +42,7 @@ export default defineConfig({
 
 
 
-                customCss: [ './src/styles/global.css',
+                customCss: [ './src/styles/starlight.css',
                 ],
                 favicon: './favicon.ico',
 
