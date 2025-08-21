@@ -62,8 +62,8 @@ export default defineConfig({
                         {
                             bundlePath: 'https://judaicadhpenn.org/pagefind/',
                             baseUrl: 'https://judaicadhpenn.org',
-                            indexWeight: 1.0, // slightly lower weight if you want local content to rank first
-                            mergeFilter: { site: 'Judaica at Penn' },
+                            indexWeight: 0.8, // slightly lower weight if you want local content to rank first
+                            mergeFilter: { site: 'LibGuides' },
                             language: 'en',
                         },
 
