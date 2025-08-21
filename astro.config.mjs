@@ -107,7 +107,7 @@ export default defineConfig({
 
                             {
                                 label: 'Judaica Web Exhibits',
-                                link: 'exhibits.judaicadhpenn.org',
+                                link: 'https://exhibits.judaicadhpenn.org',
 
                             },
                             {
