@@ -8,6 +8,7 @@ import partytown from '@astrojs/partytown';
 import react from '@astrojs/react';
 
 import netlify from '@astrojs/netlify';
+import starlightThemeBlack from 'starlight-theme-black';
 
 import sitemap from '@astrojs/sitemap';
 
@@ -29,28 +30,40 @@ export default defineConfig({
 
     integrations: [partytown(), react(), sitemap(), markdoc(), robotsTxt(),
         starlight({
+
                 title: "Judaica Collections at Penn",
                 description: 'Judaica Collections and Resources from Penn Libraries',
                 tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 6 },
                 lastUpdated: true,
                 logo: { src: './src/assets/pomegranate.svg' },
-                components: {
-                    // Override the default `SocialIcons` component.
-                    Header: './src/components/navbar.astro',
-                },
+
                 disable404Route: true,
 
 
 
                 customCss: [ './src/styles/global.css',
                 ],
-                favicon: '/assets/images/favicon.ico',
+                favicon: './favicon.ico',
 
 
 
                 plugins: [
                     starlightFullViewMode({}),
                     starlightUtils({}),
+                    starlightThemeBlack({
+                        navLinks: [ // optional
+                            { label: 'Home',
+                            link: '/'},
+                            { label: 'Collections',
+                                link: '/collections'},
+                            { label: 'Judaica DH',
+                                link: '/judaicadh'},
+                            { label: 'About',
+                                link: '/about'},
+                        ],
+                        footerText: //optional
+                            'Built & designed by [Judaica DH at Penn](https://www.library.upenn.edu/kislak/judaicadh). The source code for this website is available on [GitHub](https://github.com/judaicadh/judaicapenn).'
+                    }),
 
                 ],
                 sidebar: [
