@@ -38,6 +38,7 @@
     "react-dom": "^19.1.1",
     "react-instantsearch": "^7.16.2",
     "starlight-fullview-mode": "^0.2.3",
+    "starlight-scroll-to-top": "^0.3.1",
     "starlight-theme-black": "^0.6.0",
     "tailwindcss": "^4.1.12"
   },

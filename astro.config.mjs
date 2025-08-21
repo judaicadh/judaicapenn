@@ -19,7 +19,8 @@ import robotsTxt from 'astro-robots-txt';
 import starlight from '@astrojs/starlight';
 import starlightFullViewMode from 'starlight-fullview-mode'
 import starlightUtils from "@lorenzo_lewis/starlight-utils";
-import starlightDocSearch from '@astrojs/starlight-docsearch';
+
+import starlightScrollToTop from 'starlight-scroll-to-top'
 
 // https://astro.build/config
 export default defineConfig({
@@ -50,6 +51,7 @@ export default defineConfig({
                 plugins: [
                     starlightFullViewMode({}),
                     starlightUtils({}),
+                    starlightScrollToTop(),
                     starlightThemeBlack({
                         navLinks: [ // optional
                             { label: 'Home',
