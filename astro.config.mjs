@@ -76,9 +76,9 @@ export default defineConfig({
                     starlightFullViewMode({}),
                     starlightUtils({}),
                     starlightDocSearch({
-                        appId: 'YOUR_APP_ID',
-                        apiKey: 'YOUR_SEARCH_API_KEY',
-                        indexName: 'YOUR_INDEX_NAME',
+                        appId: '5JABJKRLAV',
+                        apiKey: 'b8ddb53a3b807b350826f3ad0d1d67ee',
+                        indexName: 'Judaica DH Penn Website',
                     }),
                 ],
                 sidebar: [
