@@ -3,6 +3,7 @@ import '../styles/global.css';
 import Footer from '../components/footer.astro';
 import { GoogleTagmanagerPartytown, SiteVerification } from '@digi4care/astro-google-tagmanager';
 import Navbar from "../components/navbar.astro";
+const { title } = Astro.props;
 ---
 
 <!doctype html>
@@ -10,7 +11,7 @@ import Navbar from "../components/navbar.astro";
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-
+    <title>{title} | Penn’s Judaica Collections</title>
     <link rel="icon" type="image/png+xml" href="/favicon-32x32.png" />
     <meta name="generator" content={Astro.generator} />
     <link rel="sitemap" href="/sitemap-index.xml" />
@@ -23,7 +24,7 @@ import Navbar from "../components/navbar.astro";
 <body class="min-h-screen flex flex-col">
 <Navbar />
 
-<main data-pagefind-body class="flex-1">
+<main data-pagefind-body data-pagefind-title={title} class="flex-1">
     <slot />
 </main>
 

@@ -3,8 +3,9 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Features from "../components/features.astro";
 import Timeline from "../components/timeline.astro";
+const { title } = Astro.props;
 ---
-<BaseLayout>
+<BaseLayout title={title}>
     <Features/>
 
 

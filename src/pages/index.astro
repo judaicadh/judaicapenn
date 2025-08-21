@@ -5,9 +5,10 @@ import Subscribe from "../components/subscribe.astro";
 import Search from "@astrojs/starlight/components/Search.astro";
 // If you actually use <Image>, import it; otherwise remove:
 // import { Image } from "astro:assets";
+const { title } = Astro.props;
 ---
 
-<BaseLayout>
+<BaseLayout {title}>
  <section
      class="relative py-14 lg:pt-44 lg:pb-24 bg-gray-100 dark:bg-gray-900 bg-center bg-cover bg-no-repeat"
      style="background-image: url('/assets/LKCAJS.jpg');"
