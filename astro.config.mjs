@@ -41,36 +41,9 @@ export default defineConfig({
 
                 customCss: [ './src/styles/starlight.css',
                 ],
-                favicon: './assets/images/favicon.ico',
-
-                pagefind: {
-                    ranking: {
-                        pageLength: 0.7,
-                        termFrequency: 1.0,
-                        termSaturation: 0.9,
-                        termSimilarity: 1.0,
-                    },
-                    mergeIndex: [
-
-                        {
-                            bundlePath: 'https://exhibits.judaicadhpenn.org/pagefind/',
-                            baseUrl: 'https://exhibits.judaicadhpenn.org',
-                            indexWeight: 0.8,
-                            mergeFilter: { site: 'Exhibits' },
-                            language: 'en'
-                        },
-
-                        {
-                            bundlePath: 'https://judaicadhpenn.org/pagefind/',
-                            baseUrl: 'https://judaicadhpenn.org',
-                            indexWeight: 0.8, // slightly lower weight if you want local content to rank first
-                            mergeFilter: { site: 'LibGuides' },
-                            language: 'en',
-                        },
+                favicon: '/assets/images/favicon.ico',
 
 
-                    ],
-                },
 
                 plugins: [
                     starlightFullViewMode({}),
