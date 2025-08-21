@@ -1,12 +1,8 @@
-@layer base, starlight, theme, components, utilities;
 
 @import "tailwindcss";
 
-@import "flowbite/src/themes/default.css";
 
-
-@plugin "flowbite/plugin";
-
+ 
 @font-face {
     font-family: 'Spectral';
     font-style: normal;
