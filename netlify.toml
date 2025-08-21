@@ -1,19 +1,8 @@
-# Serve Pagefind assets as static files
-[[redirects]]
-  from = "/pagefind/*"
-  to   = "/pagefind/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/_astro/*"
-  to   = "/_astro/:splat"
-  status = 200
 
 # example netlify.toml
 [build]
-  command = "astro build && npx pagefind --site dist"
+  command = "astro build "
   publish = "dist"
-  functions = "netlify/functions"
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
