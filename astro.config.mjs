@@ -34,7 +34,10 @@ export default defineConfig({
                 tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 6 },
                 lastUpdated: true,
                 logo: { src: './src/assets/pomegranate.svg' },
-
+                components: {
+                    // Override the default `SocialIcons` component.
+                    Header: './src/components/navbar.astro',
+                },
                 disable404Route: true,
 
 
