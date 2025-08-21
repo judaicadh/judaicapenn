@@ -95,6 +95,28 @@ export default defineConfig({
                         label: "LibGuides",
                         autogenerate: { directory: "libguides" }, // looks in src/content/docs/guides/**
                     },
+                    {
+                        label: 'Other Resources',
+                        items: [
+
+                            {
+                                label: "Penn's Digital Repository",
+                                link: "https://colenda.library.upenn.edu/?utf8=%E2%9C%93&search_field=all_fields&q=Judaica",
+
+                            },
+
+                            {
+                                label: 'Judaica Web Exhibits',
+                                link: 'exhibits.judaicadhpenn.org',
+
+                            },
+                            {
+                                label: "Penn's Finding Aids",
+                                link: 'https://findingaids.library.upenn.edu/records?f%5Brepository_ssi%5D%5B%5D=University+of+Pennsylvania%3A+Archives+at+the+Library+of+the+Katz+Center+for+Advanced+Judaic+Studies&search_field=all_fields',
+
+                            },
+                        ],
+                    },
                 ],
             }
 
