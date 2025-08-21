@@ -1,13 +1,12 @@
 # Serve Pagefind assets as static files
 [[redirects]]
-  from = "/_pagefind/*"
-  to = "/_pagefind/:splat"
+  from = "/pagefind/*"
+  to   = "/pagefind/:splat"
   status = 200
 
-# (Optional but recommended) keep Astro’s assets static too
 [[redirects]]
   from = "/_astro/*"
-  to = "/_astro/:splat"
+  to   = "/_astro/:splat"
   status = 200
 
 # example netlify.toml

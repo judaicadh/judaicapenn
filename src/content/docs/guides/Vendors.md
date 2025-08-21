@@ -1,5 +1,6 @@
 ---
 title: Judaica Vendors
+
 description: Curated links to publishers, booksellers, and music sources relevant to Judaica and Jewish Studies.
 ---
 

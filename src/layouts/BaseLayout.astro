@@ -15,6 +15,7 @@ import Navbar from "../components/navbar.astro";
     <meta name="generator" content={Astro.generator} />
     <link rel="sitemap" href="/sitemap-index.xml" />
 
+
     <SiteVerification id="SITE_VERIFICATION_ID" />
     <GoogleTagmanagerPartytown id="GTM_MEASUREMENT_ID" />
 </head>
@@ -28,7 +29,6 @@ import Navbar from "../components/navbar.astro";
 
 <Footer />
 
-<!-- Load Flowbite AFTER markup so it can find your menu elements -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.js" defer></script>
+<script is:inline src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.js"></script>
 </body>
 </html>

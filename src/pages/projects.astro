@@ -1,6 +1,8 @@
 ---
 
-import BaseLayout from "../layouts/BaseLayout.astro";---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import LastUpdated from "@astrojs/starlight/components/LastUpdated.astro"
+---
 <BaseLayout>
     <section class="container mx-auto py-16">
         <div class="mb-12">
@@ -34,4 +36,5 @@ import BaseLayout from "../layouts/BaseLayout.astro";---
             </div>
         </div>
     </section>
+    <LastUpdated />
 </BaseLayout>

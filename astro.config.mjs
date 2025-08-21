@@ -21,65 +21,74 @@ import starlightUtils from "@lorenzo_lewis/starlight-utils";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://judaicadhpenn.org',
-  vite: {
-    plugins: [tailwindcss()]
-  },
+    site: 'https://judaicadhpenn.org',
+    vite: {
+        plugins: [tailwindcss()]
+    },
 
-  integrations: [partytown(), react(), sitemap(), markdoc(), robotsTxt(),
-      starlight({
-        title: "Judaica Collections at Penn",
-              description: 'Judaica Collections and Resources from Penn Libraries',
-              tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 6 },
-              lastUpdated: true,
-              logo: { src: './src/assets/pomegranate.svg' },
+    integrations: [partytown(), react(), sitemap(), markdoc(), robotsTxt(),
+        starlight({
+                title: "Judaica Collections at Penn",
+                description: 'Judaica Collections and Resources from Penn Libraries',
+                tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 6 },
+                lastUpdated: true,
+                logo: { src: './src/assets/pomegranate.svg' },
 
-
-
-          customCss: [ './src/styles/starlight.css',
-          ],
-          favicon: './assets/images/favicon.ico',
-
-                        pagefind: {
-                            ranking: {
-                                pageLength: 0.7,
-                                termFrequency: 1.0,
-                                termSaturation: 0.9,
-                                termSimilarity: 1.0,
-                            },
-                            mergeIndex: [
-
-                                {
-                                    bundlePath: 'https://exhibits.judaicadhpenn.org/pagefind/',
-                                    baseUrl: 'https://exhibits.judaicadhpenn.org',
-                                    indexWeight: 1.0,
-                                    mergeFilter: { site: 'Exhibits' },
-                                    language: 'en',
-                                },
-                                {
-                                    bundlePath: 'https://judaicadhpenn.org/pagefind/',
-                                    baseUrl: 'https://judaicadhpenn.org',
-                                    indexWeight: 0.9, // slightly lower weight if you want local content to rank first
-                                    mergeFilter: { site: 'Judaica at Penn' },
-                                    language: 'en',
-                                },
+                disable404Route: true,
 
 
-                            ],
+
+                customCss: [ './src/styles/starlight.css',
+                ],
+                favicon: './assets/images/favicon.ico',
+
+                pagefind: {
+                    ranking: {
+                        pageLength: 0.7,
+                        termFrequency: 1.0,
+                        termSaturation: 0.9,
+                        termSimilarity: 1.0,
+                    },
+                    mergeIndex: [
+
+                        {
+                            bundlePath: 'https://exhibits.judaicadhpenn.org/pagefind/',
+                            baseUrl: 'https://exhibits.judaicadhpenn.org',
+                            indexWeight: 1.0,
+                            mergeFilter: { site: 'Exhibits' },
+                            language: 'en'
+                        },
+                        {
+                            bundlePath: 'https://exhibits.judaicadhpenn.org/pagefind/',
+                            baseUrl: 'https://exhibits.judaicadhpenn.org',
+                            indexWeight: 1.0,
+                            mergeFilter: { site: 'Exhibits' },
+                            language: 'he'
+                        },
+                        {
+                            bundlePath: 'https://judaicadhpenn.org/pagefind/',
+                            baseUrl: 'https://judaicadhpenn.org',
+                            indexWeight: 0.9, // slightly lower weight if you want local content to rank first
+                            mergeFilter: { site: 'Judaica at Penn' },
+                            language: 'en',
                         },
 
-plugins: [
-    starlightFullViewMode({}),
-    starlightUtils({}),
-],
-          sidebar: [
-              {
-                  label: "LibGuides",
-                  autogenerate: { directory: "guides" }, // looks in src/content/docs/guides/**
-              },
-          ],
-      }
 
-  )],
-  adapter: netlify()
+                    ],
+                },
+
+                plugins: [
+                    starlightFullViewMode({}),
+                    starlightUtils({}),
+                ],
+                sidebar: [
+                    {
+                        label: "LibGuides",
+                        autogenerate: { directory: "guides" }, // looks in src/content/docs/guides/**
+                    },
+                ],
+            }
+
+        )],
+    adapter: netlify()
 });
