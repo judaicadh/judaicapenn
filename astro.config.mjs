@@ -54,21 +54,15 @@ export default defineConfig({
                         {
                             bundlePath: 'https://exhibits.judaicadhpenn.org/pagefind/',
                             baseUrl: 'https://exhibits.judaicadhpenn.org',
-                            indexWeight: 1.0,
+                            indexWeight: 0.8,
                             mergeFilter: { site: 'Exhibits' },
                             language: 'en'
                         },
-                        {
-                            bundlePath: 'https://exhibits.judaicadhpenn.org/pagefind/',
-                            baseUrl: 'https://exhibits.judaicadhpenn.org',
-                            indexWeight: 1.0,
-                            mergeFilter: { site: 'Exhibits' },
-                            language: 'he'
-                        },
+
                         {
                             bundlePath: 'https://judaicadhpenn.org/pagefind/',
                             baseUrl: 'https://judaicadhpenn.org',
-                            indexWeight: 0.9, // slightly lower weight if you want local content to rank first
+                            indexWeight: 1.0, // slightly lower weight if you want local content to rank first
                             mergeFilter: { site: 'Judaica at Penn' },
                             language: 'en',
                         },
