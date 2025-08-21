@@ -39,7 +39,7 @@ export default defineConfig({
 
 
 
-                customCss: [ './src/styles/starlight.css',
+                customCss: [ './src/styles/global.css',
                 ],
                 favicon: '/assets/images/favicon.ico',
 
@@ -48,11 +48,7 @@ export default defineConfig({
                 plugins: [
                     starlightFullViewMode({}),
                     starlightUtils({}),
-                    starlightDocSearch({
-                        appId: '5JABJKRLAV',
-                        apiKey: 'b8ddb53a3b807b350826f3ad0d1d67ee',
-                        indexName: 'website_pages',
-                    }),
+
                 ],
                 sidebar: [
                     {
