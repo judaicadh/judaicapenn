@@ -78,7 +78,7 @@ export default defineConfig({
                     starlightDocSearch({
                         appId: '5JABJKRLAV',
                         apiKey: 'b8ddb53a3b807b350826f3ad0d1d67ee',
-                        indexName: 'judaicadhpenn_org_5jabjkrlav_articles',
+                        indexName: 'LibGuides',
                     }),
                 ],
                 sidebar: [
