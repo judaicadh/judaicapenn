@@ -3,7 +3,7 @@ import '../styles/global.css';
 import Footer from '../components/footer.astro';
 import { GoogleTagmanagerPartytown, SiteVerification } from '@digi4care/astro-google-tagmanager';
 import Navbar from "../components/navbar.astro";
- 
+
 const { title = "Untitled" } = Astro.props;
 
 ---
@@ -26,7 +26,7 @@ const { title = "Untitled" } = Astro.props;
 <body class="min-h-screen flex flex-col">
 <Navbar />
 
-<main data-pagefind-body data-pagefind-title={title} class="flex-1">
+<main data-pagefind-body data-pagefind-meta={title} class="flex-1">
     <slot />
 </main>
 
