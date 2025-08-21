@@ -84,7 +84,7 @@ export default defineConfig({
                 sidebar: [
                     {
                         label: "LibGuides",
-                        autogenerate: { directory: "guides" }, // looks in src/content/docs/guides/**
+                        autogenerate: { directory: "libguides" }, // looks in src/content/docs/guides/**
                     },
                 ],
             }
