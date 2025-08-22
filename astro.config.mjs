@@ -8,7 +8,6 @@ import partytown from '@astrojs/partytown';
 import react from '@astrojs/react';
 
 import netlify from '@astrojs/netlify';
-import starlightThemeBlack from 'starlight-theme-black';
 
 import sitemap from '@astrojs/sitemap';
 
@@ -17,6 +16,8 @@ import markdoc from '@astrojs/markdoc';
 import robotsTxt from 'astro-robots-txt';
 
 import starlight from '@astrojs/starlight';
+import starlightThemeBlack from 'starlight-theme-black';
+
 import starlightFullViewMode from 'starlight-fullview-mode'
 import starlightUtils from "@lorenzo_lewis/starlight-utils";
 
@@ -71,13 +72,10 @@ export default defineConfig({
             },
 
                 plugins: [
-                    starlightFullViewMode({}),
-                    starlightUtils({}),
-                    starlightScrollToTop(),
                     starlightThemeBlack({
                         navLinks: [ // optional
                             { label: 'Home',
-                            link: '/'},
+                                link: '/'},
                             { label: 'Collections',
                                 link: '/collections'},
                             { label: 'Judaica DH',
@@ -88,6 +86,10 @@ export default defineConfig({
                         footerText: //optional
                             'Built & designed by [Judaica DH at Penn](https://www.library.upenn.edu/kislak/judaicadh). The source code for this website is available on [GitHub](https://github.com/judaicadh/judaicapenn).'
                     }),
+
+                    starlightFullViewMode({}),
+                    starlightUtils({}),
+                    starlightScrollToTop(),
 
                 ],
                 sidebar: [
