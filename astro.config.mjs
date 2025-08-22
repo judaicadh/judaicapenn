@@ -18,7 +18,6 @@ import robotsTxt from 'astro-robots-txt';
 import starlight from '@astrojs/starlight';
 import starlightThemeBlack from 'starlight-theme-black';
 
-import starlightFullViewMode from 'starlight-fullview-mode'
 import starlightUtils from "@lorenzo_lewis/starlight-utils";
 
 import starlightScrollToTop from 'starlight-scroll-to-top'
@@ -42,7 +41,9 @@ export default defineConfig({
                 disable404Route: true,
 
 
-
+                components: {
+                    TableOfContents: './src/components/tableofcontents.astro',
+                },
                 customCss: [ './src/styles/starlight.css',
                 ],
                 favicon: './favicon.ico',
@@ -72,6 +73,7 @@ export default defineConfig({
             },
 
                 plugins: [
+/*
                     starlightThemeBlack({
                         navLinks: [ // optional
                             { label: 'Home',
@@ -86,8 +88,9 @@ export default defineConfig({
                         footerText: //optional
                             'Built & designed by [Judaica DH at Penn](https://www.library.upenn.edu/kislak/judaicadh). The source code for this website is available on [GitHub](https://github.com/judaicadh/judaicapenn).'
                     }),
+*/
 
-                    starlightFullViewMode({}),
+
                     starlightUtils({}),
                     starlightScrollToTop(),
 
