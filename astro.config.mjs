@@ -85,6 +85,8 @@ export default defineConfig({
                             { label: 'About',
                                 link: '/about'},
                         ],
+                        footerText: //optional
+                            'Built & designed by [Judaica DH at Penn](https://www.library.upenn.edu/kislak/judaicadh). The source code for this website is available on [GitHub](https://github.com/judaicadh/judaicapenn).'
                     }),
 
                 ],
