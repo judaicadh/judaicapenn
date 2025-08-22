@@ -1,6 +1,6 @@
 ---
-title: "Arts"
-
+title: Arts
+template: doc
 ---
 ## Fine Arts
 - [Ariel - The Israel Review of Arts and Letters](https://mfa.gov.il/MFA/MFA-Archive/2003/Pages/ARIEL%20-%20The%20Israel%20Review%20of%20Arts%20and%20Letters.aspx)

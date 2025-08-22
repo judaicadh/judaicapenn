@@ -1,6 +1,6 @@
 ---
 title: Academic & Library
-
+template: doc
 ---
 
 ## Directories

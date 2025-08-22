@@ -2,6 +2,8 @@
 // TableOfContents.astro
 import TableOfContentsList from './tableofcontentslist.astro';
 const { toc } = Astro.locals.starlightRoute;
+import StarlightCoolerCreditTableOfContents from 'starlight-cooler-credit/components/TableOfContents.astro'
+
 ---
 
 {toc && (
@@ -9,7 +11,10 @@ const { toc } = Astro.locals.starlightRoute;
     <nav aria-labelledby="starlight__on-this-page">
         <h2 id="starlight__on-this-page">{Astro.locals.t('tableOfContents.onThisPage')}</h2>
         <TableOfContentsList sublist={toc.items} />
+        <StarlightCoolerCreditTableOfContents />
     </nav>
+
+
 </starlight-toc>
     )}
 
