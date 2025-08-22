@@ -2,6 +2,10 @@
 
 import BaseLayout from "../layouts/BaseLayout.astro";
 const {title} = Astro.props;
+import { Image } from 'astro:assets';
+import Lenkin from '../assets/Lenkin.jpg';
+import MoldovanMap from '../assets/MoldovanMap.jpg';
+import Genizah from '../assets/Genizah.jpg';
 ---
 <BaseLayout title={title}>
     <section class="py-24">
@@ -10,7 +14,7 @@ const {title} = Astro.props;
         <a href="#"
            class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
             <img class="object-cover w-full rounded-t-lg h-48 md:h-48 md:w-full md:rounded-none md:rounded-t-lg"
-                 src="https://www.library.upenn.edu/sites/default/files/2023-11/geniza.jpg" alt="">
+                 src={Genizah.src} alt="Cairo Genizah Fragments">
             <div class="flex flex-col justify-between p-4 leading-normal">
                 <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">
                     Cairo Genizah Fragments
@@ -78,7 +82,7 @@ Test
         <a href="https://www.library.upenn.edu/collections/notable/holy-land-collections"
            class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
             <img class="object-cover w-full rounded-t-lg h-48 md:h-48 md:w-full md:rounded-none md:rounded-t-lg"
-                 src="https://almanac.upenn.edu/uploads/img/Holy_Land_The_Water_Carrier-resized.jpg" alt="">
+                 src={Lenkin.src} alt="Lenkin Family Collection of Photography">
             <div class="flex flex-col justify-between p-4 leading-normal">
                 <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">
                     Lenkin Family Collection of Photography
@@ -91,7 +95,7 @@ Test
         <a href="#"
            class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
             <img class="object-cover w-full rounded-t-lg h-48 md:h-48 md:w-full md:rounded-none md:rounded-t-lg"
-                 src="https://almanac.upenn.edu/uploads/img/Holy-Lands---Carte-du-voiage.jpg" alt="">
+                 src={MoldovanMap.src} alt="The Moldovan Family Holy Land Map Collection">
             <div class="flex flex-col justify-between p-4 leading-normal">
                 <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">
                     The Moldovan Family Holy Land Map Collection
