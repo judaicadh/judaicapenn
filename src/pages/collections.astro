@@ -4,7 +4,115 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 const {title} = Astro.props;
 ---
 <BaseLayout title={title}>
-<article>
+    <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <!-- Card 1 -->
+        <a href="#"
+           class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+            <img class="object-cover w-full rounded-t-lg h-48 md:h-48 md:w-full md:rounded-none md:rounded-t-lg"
+                 src="https://www.library.upenn.edu/sites/default/files/2023-11/geniza.jpg" alt="">
+            <div class="flex flex-col justify-between p-4 leading-normal">
+                <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">
+                    Cairo Genizah Fragments
+                </h5>
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+                    Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.
+                </p>
+            </div>
+        </a>
+        <a href="#"
+           class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+            <img class="object-cover w-full rounded-t-lg h-48 md:h-48 md:w-full md:rounded-none md:rounded-t-lg"
+                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJC1eRH1N28QwcWkB2PSCT0hq8fnsd7FXgLA&s" alt="">
+            <div class="flex flex-col justify-between p-4 leading-normal">
+                <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">
+                    Incunabula
+                </h5>
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+Test
+                </p>
+            </div>
+        </a>
 
-</article>
+
+        <!-- Card 2 -->
+        <a href="#"
+           class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+            <img class="object-cover w-full rounded-t-lg h-48 md:h-48 md:w-full md:rounded-none md:rounded-t-lg"
+                 src="/docs/images/blog/image-5.jpg" alt="">
+            <div class="flex flex-col justify-between p-4 leading-normal">
+                <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">
+                   Arnold and Deanne Kaplan Collection of Early American Judaica
+                </h5>
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+                    Supporting text for this second card goes here.
+                </p>
+            </div>
+        </a>
+        <a href="https://www.library.upenn.edu/collections/notable/harvey-sheldon-jewish-american"
+           class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+            <img class="object-cover w-full rounded-t-lg h-48 md:h-48 md:w-full md:rounded-none md:rounded-t-lg"
+                 src="https://www.library.upenn.edu/sites/default/files/styles/page_hero_1x1/public/2024-02/Buddy_Rich.jpeg?itok=ZvxdSNCj" alt="">
+            <div class="flex flex-col justify-between p-4 leading-normal">
+                <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">
+                    Harvey Sheldon Jewish American Music Video Research Library
+                </h5>
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+                    This collection features artistic works written, directed, produced, or performed by Jews for general as well as for Jewish American audiences. It numbers approximately 2,000 video titles copied on to more than 350 DVD's.
+                </p>
+            </div>
+        </a>
+        <a href="#"
+           class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+            <img class="object-cover w-full rounded-t-lg h-48 md:h-48 md:w-full md:rounded-none md:rounded-t-lg"
+                 src="" alt="">
+            <div class="flex flex-col justify-between p-4 leading-normal">
+                <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">
+                    Robert and Molly Freedman Jewish Music Archive
+                </h5>
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+                    Supporting text for this second card goes here.
+                </p>
+            </div>
+        </a>
+        <a href="https://www.library.upenn.edu/collections/notable/holy-land-collections"
+           class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+            <img class="object-cover w-full rounded-t-lg h-48 md:h-48 md:w-full md:rounded-none md:rounded-t-lg"
+                 src="https://almanac.upenn.edu/uploads/img/Holy_Land_The_Water_Carrier-resized.jpg" alt="">
+            <div class="flex flex-col justify-between p-4 leading-normal">
+                <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">
+                    Lenkin Family Collection of Photography
+                </h5>
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+                    5,000 early photographs of the Holy Land, dating from 1850-1937
+                </p>
+            </div>
+        </a>
+        <a href="#"
+           class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+            <img class="object-cover w-full rounded-t-lg h-48 md:h-48 md:w-full md:rounded-none md:rounded-t-lg"
+                 src="https://almanac.upenn.edu/uploads/img/Holy-Lands---Carte-du-voiage.jpg" alt="">
+            <div class="flex flex-col justify-between p-4 leading-normal">
+                <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">
+                    The Moldovan Family Holy Land Map Collection
+                </h5>
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+                    Supporting text for this second card goes here.
+                </p>
+            </div>
+        </a>
+        <a href="#"
+           class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+            <img class="object-cover w-full rounded-t-lg h-48 md:h-48 md:w-full md:rounded-none md:rounded-t-lg"
+                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Isaac_Leeser.jpg/640px-Isaac_Leeser.jpg" alt="">
+            <div class="flex flex-col justify-between p-4 leading-normal">
+                <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">
+                    Isaac Leeser Letter Collection
+                </h5>
+                <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+                    Supporting text for this second card goes here.
+                </p>
+            </div>
+        </a>
+        <!-- Add more cards as needed -->
+    </div>
 </BaseLayout>
