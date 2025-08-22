@@ -952,7 +952,7 @@ The machinery of printing houses changed only to the slightest extent between th
 ## Woodcuts of Early Printing Operations
 
 <figure>
-    <img src="../../../assets/Typohraphus.jpg"
+    <img src="../../../../assets/Typohraphus.jpg"
          alt="Typographus">
     <figcaption>An image from The British Museum  
 Typographus. Der Buchdrucker (The Printer)/ Panoplia omnium illiberalium mechanicarum ... (Book of trades)</figcaption>
