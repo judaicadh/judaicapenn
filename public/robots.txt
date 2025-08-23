@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://judaicadhpenn.org/sitemap-index.xml
