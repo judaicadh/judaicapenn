@@ -76,7 +76,7 @@ export default defineConfig({
         TableOfContents: "./src/components/tableofcontents.astro",
       },
       customCss: ["./src/styles/starlight.css"],
-      favicon: "./favicon.ico",
+      favicon: "./android-chrome-512x512.png",
       pagefind: {
         ranking: {
           pageLength: 0.7,
