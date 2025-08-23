@@ -1,6 +1,7 @@
 ---
 title: Texts
 ---
+
 ## UPenn online books
 
 - [Books on Judaism](http://onlinebooks.library.upenn.edu/webbin/book/subjectstart?BM) (Call Numbers Starting With BM)
@@ -62,8 +63,8 @@ Other Languages
   - [The Corpus Hermeticum](http://www.gnosis.org/library/hermet.htm)
   - [Manichaean Writings](http://www.gnosis.org/library/manis.htm)
   - [Mandaean Scriptures and Fragments](http://www.gnosis.org/library/mand.htm)
-  - [Cathar Texts](http://www.gnosis.org/library/cathtx.htm)  
-  - [Alchemical Writings](http://www.gnosis.org/library/alch.htm)  
+  - [Cathar Texts](http://www.gnosis.org/library/cathtx.htm)
+  - [Alchemical Writings](http://www.gnosis.org/library/alch.htm)
   - [Christian Liturgy](http://www.gnosis.org/library/lith.htm)
   - [Plato and Plotinus](http://www.gnosis.org/library/platon.htm) (in Greek and English)
   - [Gnostic Texts from the Dead Sea Scrolls](http://www.gnosis.org/library/scroll.htm)

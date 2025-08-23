@@ -3,9 +3,32 @@ import '../styles/global.css';
 import Footer from '../components/footer.astro';
 import { GoogleTagmanagerPartytown, SiteVerification } from '@digi4care/astro-google-tagmanager';
 import Navbar from "../components/navbar.astro";
+import { SEO } from "astro-seo";
 
-const { title } = Astro.props;
+const SITE = {
+    baseUrl: "https://judaicadhpenn.org",
+    name: "Judaica at Penn Libraries",
+    defaultDescription:
+        "Explore Judaica at Penn Libraries: collections, guides, exhibits, and digital resources.",
+    defaultOgImage: "/assets/LCKAJS.jpg",   // ensure this exists in /public/social/
+                // TODO: set your handle
+};
 
+// Props each page can pass into BaseLayout
+const {
+    title = SITE.name,
+    description = SITE.defaultDescription,
+    ogImage = SITE.defaultOgImage,
+    ogType = "website",    // or "article"
+    noindex = false
+} = Astro.props;
+
+// Build absolute URLs
+const baseUrl = Astro.site?.href ?? SITE.baseUrl;
+const url = new URL(Astro.url.pathname, baseUrl).toString();
+const absoluteOg = ogImage.startsWith("http")
+    ? ogImage
+    : new URL(ogImage, baseUrl).toString();
 ---
 
 <!doctype html>
@@ -13,21 +36,49 @@ const { title } = Astro.props;
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{title}</title>
-    <link rel="icon" type="image/png+xml" href="/favicon-32x32.png" />
     <meta name="generator" content={Astro.generator} />
-    <meta name="algolia-site-verification"  content="CDB8F870A8F8037E" />
-    <link rel="sitemap" href="/sitemap-index.xml" />
+    <meta name="algolia-site-verification" content="CDB8F870A8F8037E" />
+    <!-- Optional but fine -->
+    <link rel="sitemap" type="application/xml" href="/sitemap-index.xml" />
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" />
 
+    <SEO
+            title={title}
+            description={description}
+            noindex={noindex}
+            openGraph={{
+                basic: {
+                    title,
+                    type: ogType,
+                    image: absoluteOg,
+                    url
+                },
+                optional: {
+                    siteName: SITE.name
+                }
+            }}
+            twitter={{
+                card: "summary_large_image",
+                title,
+                description,
+                image: absoluteOg,
+                imageAlt: "Judaica at Penn Libraries"
+            }}
+            extend={{
+                link: [{ rel: "canonical", href: url }],
+                meta: [{ property: "og:image:alt", content: "Judaica at Penn Libraries" }]
+            }}
+    />
 
     <SiteVerification id="SITE_VERIFICATION_ID" />
-    <GoogleTagmanagerPartytown id="GTM_MEASUREMENT_ID" />
+    <GoogleTagmanagerPartytown id="G-62TY761V9V" />
 </head>
+
 
 <body class="min-h-screen flex flex-col">
 <Navbar />
 
-<main data-pagefind-body data-pagefind-meta={title} class="flex-1">
+<main  class="flex-1">
     <slot />
 </main>
 

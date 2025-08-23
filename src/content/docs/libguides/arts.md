@@ -3,7 +3,7 @@ title: Arts
 template: doc
 ---
 ## Fine Arts
-- [Ariel - The Israel Review of Arts and Letters](https://mfa.gov.il/MFA/MFA-Archive/2003/Pages/ARIEL%20-%20The%20Israel%20Review%20of%20Arts%20and%20Letters.aspx)
+- [Ariel - The Israel Review of Arts and Letters](https://mfa.gov.il/MFA/MFA-Archive/2003/Pages/ARIEL%20-%20The%20Israel%20Review%20of%20Arts%20and%20Letters.aspx)∏
 -   [Ein Hod Artists Village](https://ein-hod.info/)
 -   [The National Library of Israel - David & Fela Shappel Family Digitization Project](https://web.nli.org.il/sites/nli/english/digitallibrary/pages/shapell-digitization-project.aspx)
 -   [Medieval Jewish Women in History, Literature, Law, and Art: An Annotated Bibliography](https://the-orb.arlima.net/encyclop/religion/judaism/jew-wom.html), Compiled by Cheryl Tallan (The Online Reference Book for Medieval Studies)

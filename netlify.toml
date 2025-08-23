@@ -9,3 +9,4 @@ from = "/legacyprojects/*"
 to = "https://legacy.judaicadhpenn.org/:splat"
 status = 301
 force = true
+
