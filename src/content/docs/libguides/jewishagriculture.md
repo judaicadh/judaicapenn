@@ -40,29 +40,93 @@ title: Jewish Agrarian Holdings at Penn Libraries
 
 
 ## Manuscript Material
-## Printed Primary Resources
+### Printed Primary Resources
 * Alper, Rivḳah, Banot Ba-Nir: Ḳorot Mishḳe-Ha-Poʻalot Ṿe-Ḥaṿot-Ha-Limud. Tel Aviv: ʻAm ʻoved, 706 / \[1945 or 1946\].<https://franklin.library.upenn.edu/catalog/FRANKLIN_9959233863503681>
 * Alpersohn, Marcos, and M Avigal. 30 Shenot Ha-Hityashvut Ha-Yehudit Be-Argentinah. Tel-Aviv: "Hotsaʾat Ḥevrah,", 1930**.**<https://franklin.library.upenn.edu/catalog/FRANKLIN_9924258113503681>
 * Alpersohn, Marcos, and Shemuʼel Rozshansḳi. _In Argenṭine: Memuarn Fun Der Yidisher Ḳolonizatsye._ \[Buenos Ayres\]: \[Liṭeraṭur-gezelshafṭ baym Yiṿo in Argenṭine\], 1967.<https://franklin.library.upenn.edu/catalog/FRANKLIN_9924247053503681>
 * Arbeiterinnen Erzählen: Kampf Und Leben In Erez Jisrael. Berlin: Verlag "Kedem,", 1935.<https://franklin.library.upenn.edu/catalog/FRANKLIN_9924156433503681>
 * Auerbach, Elias, Palästina Als Judenland. Berlin: In kommission beim Juedischen verlag, 1912. <https://franklin.library.upenn.edu/catalog/FRANKLIN_9924088533503681>
+* Atlas Des Colonies Et Domaines De La Jewish Colonization Association En République Argentine Et Au Brésil. Paris: Jewish Colonization Association, 1914.
+* <https://franklin.library.upenn.edu/catalog/FRANKLIN_9921334903503681>
+* Bardin, Shlomo, Pioneer Youth In Palestine. New York: Bloch, 1932.
+* <https://franklin.library.upenn.edu/catalog/FRANKLIN_9924089263503681>
+* (ḳleyne Anṭologye Ṿegn Der Yidisher Aṿṭonomer Gegnṭ) Ṿilne : Druḳerey fun G. Ḳletsḳin, 1935:
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9977630051203681>
+* Brill, Yehiel, Yesud Ha-Maʻalah: Yesaper Mi-Teḥilat Ha-ʻaliyah She-ʻaliti Yaḥad ʻim Aḥad ʻaśar Ikarim Yehudim Le-Khonen Moshav Me-ʻovde Adamah Ba-Arets Ha-Ḳedoshah .... Magentsa: Y. Bril, 643 / 1883.
+* Borovoĭ, S. I︠A︡. Evreĭskai︠a︡ Zemledelʹcheskai︠a︡ Kolonizat︠s︡ii︠a︡ v Staroĭ Rossii: Politika, Ideologii︠a︡, Khozi︠a︡ĭstvo, Byt : Po Arkhivnym Materialam. Moskva: Izd. M. i S. Sabashnikovykh, 1928.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9924342233503681>
+* Curét, Albert, _History of the Woodbine Colony._ Woodbine, N.J.: The Woodbine children's clothing co., 1910.
+  <https://franklin.library.upenn.edu/catalog/HATHI_oai-009600844>
+* Davidson, Gabriel, Our Jewish Farmers and the Story of the Jewish Agricultural Society. New York: L.B. Fischer, 1943.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9924076303503681>
+* Davidson, Gabriel. _His Ancestral Calling._ New York: American Jewish Committee, 1944.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9977253749603681>
+* Disḳin, Mordekhai, Ḳunṭres Maʼamar Mordekhai: ṿe-Hu Ki-Senif La-ḥoveret "divre Mordekhai" She-Hotseti Le-Or Bi-Shenat 649 ... Yedubar Bo Meha-ḥadashot She-Nitḥadshu Beha-Yishuv Mi-Shenat Ha-N. L. .. Yerushalayim : Y. D. Frumḳin, 672 \[1911 or 1912\].
+  <https://franklin.library.upenn.edu/catalog/HATHI_oai-101826733>
+* Ettinger, Jacob, _Jewish Colonization In Palestine: Methods, Plans and Capital._ \[The Hague\]: Head Office of the Jewish National Fund, \[191-\].
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9924486323503681>
+* Gerts, Aharon. The Social Structure of Jewish Settlement In Palestine. 2d ed. Jerusalem: Rubin Mass, 1947. \[translated from Hebrew\].
+* Goldstein, Philip Reuben. Social Aspects of the Jewish Colonies of South Jersey. New York: The League printing co., inc., 1921.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9924093163503681>
+* Habas, Bracha, Ḥomah U-Migdal: Ha-Hityashvut Ha-Ḥadashah Bi-Shenot Ha-Matsor. Tel-Aviv: ha-Merkaz la-noʻar Histadrut ha-ʻovdim be-Erets-Yisraʾel, 699 / 1939.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9923840783503681>
+* \[Hebrew Emigrant Aid Society\]. Proceedings of the Conference of Hebrew Emigrant Aid Societies and Auxiliary Committees: Representing the Various Cities of the United States and Canada, New York, June 4th, 1882. New York: Davis, printer, 1882.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9969500543503681>
+* \[Hebrew Sheltering and Immigrant Aid Society\]. Sanders, Leon. Addresses Delivered At the Third Annual Meeting. New York: Hebrew Sheltering and Immigrant Aid Society, 1912.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9924304233503681>
+* Joseph, Samuel, History of the Baron De Hirsch Fund: The Americanization of the Jewish Immigrant. \[Philadelphia\]: Printed for Baron de Hirsch fund by the Jewish publication Society, 1935.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9910389923503681>
+* Kann, J. H. Erez Israel: Das Jüdische Land. Köln: Jüdischer Verlag, 1909.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9924224183503681>
+* Klein, Moses. Migdal Tsofim: Tsofeh U-Mabiṭ ʻal Sheʾelat Ha-Yehudim U-Fitronah ʻal Yede ʻavodat Ha-Adamah. Philadelphia: \[s.n.\], 650 / 1889.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9923913453503681>
+* Levy, Louis Edward, The Russian Jewish Refugees In America: Considered In Connection with the General Subject of Immigration In Its Historical and Economic Aspects. Philadelphia: The Levytype Co., 1895.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9923880503503681> .
+* Margolis, Rose. History of the Industrial Removal Office: And a Study of Its Work As Revealed In Selected Correspondence, 1906-1922. New York, 1936.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9924329013503681>
+* Meerovitch, Manaché, Ha-Moshavot Ha-ʻivriyot Be-E\[rets\]-Yi\[śrael\]. 1919.
+* Mt. Nebo, New York (**Kestenbaum – locate**)
+* National Farm School materials: <https://franklin.library.upenn.edu/catalog?q=national+farm+school&search_field=keyword>
+* Nossig, Alfred, Leitende Ideen Der Allgemeinen Jüdischen Kolonisations-Organisation. Berlin: Herausgegeben vom Komitee der A.J.K.O., 1908.
+  <https://franklin.library.upenn.edu/catalog/HATHI_oai-100931278>
+* Rezniḳ, Barukh, 50 Yor Idishe Ḳolonizatsye In Argenṭine_._ \[Buenos Ayres\]: Farlag "ʻAvodah", 1940.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9958417993503681>
+* Rosen, Joseph, A., James H Becker, and Felix M Warburg. After Three Years: The Progress of the Jewish Farm Colonies In Russia. New York: Issued by United Jewish Campaign, 1927.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9924490413503681>
+* Ruppin, Arthur, Der Aufbau Des Landes Israel: Ziele Und Wege Jüdischer Siedlungsarbeit In Palästina. Berlin: Jüdischer verlag, 1919.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_998228183503681>
+* Ruppin, Arthur, Ha-Hityashvut Ha-Ḥaklaʾit Shel Ha-Histadrut Ha-Tsiyonit Be-Erets Yisraʾel (668-684). Tel-Aviv: Hotsaʾat "Devir,", 1925.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9923753973503681>
+* Ruppin, Arthur, Die Landwirtschaftliche Kolonisation Der Zionistischen Organisation In Palästina. Berlin: "Aufbau", 1925.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9924026513503681>
+* Ruppin, Arthur, The Agricultural Colonisation of the Zionist Organisation In Palestine_._ Westport, Conn.: Hyperion Press, 1976. \[Translation of Die landwirtschaftliche Kolonisation der Zionist Organisation in Palästina. Reprint of the 1926 ed. published by M. Hopkinson, London\].
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_994478313503681>
+* Sicily Island (**Kestenbaum – locate**)
+* Soskin, S. E. Small Holding and Irrigation: The New Form of Settlement In Palestine_._ London: Published for the Jewish National Fund by Allen & Unwin, 1920.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9924485053503681>
+* Trietsch, Davis, Bilder Aus Palaestina. 2. Aufl. Berlin: Orient-verlag, 1911.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9924137243503681>
+* Wurm, Shalom. The Kvutza: The Structure, Problems, and Achievements of the Collective Settlements In Palestine. New York, N.Y. \[275 7th Ave.\]: Habonim, Labor Zionist Youth, 1942.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9924075573503681>
+* Yōvāl =: Yoval : a Symposium Upon the First Fifty Years of the Jewish Farming Colonies of Alliance, Norma and Brotmanville, New Jersey. \[New Jersey?\]: published in conjunction with the Golden jubilee and fiftieth anniversary reunion by the Committee on arrangements, 1932.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9923940633503681>
+* Zemach, Shlomo, Das Jüdische Dorf. Jerusalem: Keren Hajessod, 1932.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9977252453003681>
+* Zemach, Shlomo, Bereshit: Le-Toldot Ha-Hityashvut Ha-ʻovedet Ba-Arets. Tel Aviv: ʻAm ʻoved, 706 / 1946.
+  <https://franklin.library.upenn.edu/catalog/FRANKLIN_9924599463503681>
 
-### Association of Jewish Immigrants
-#### Annual Reports
+#### Association of Jewish Immigrants
+##### Annual Reports
 * <https://franklin.library.upenn.edu/catalog/FRANKLIN_9977558515203681> (1886)
 * <https://franklin.library.upenn.edu/catalog/FRANKLIN_9977558515103681> (1890, 1891)
 
-### Association for the Protection of Jewish Immigrants
-#### Annual and Semi-Annual Reports
+#### Association for the Protection of Jewish Immigrants
+##### Annual and Semi-Annual Reports
 * <https://franklin.library.upenn.edu/catalog/FRANKLIN_9977558515003681> (1916)
 * <https://franklin.library.upenn.edu/catalog/FRANKLIN_9924550313503681> (1928)
 * <https://franklin.library.upenn.edu/catalog/FRANKLIN_9924550293503681> (1933)
 * <https://franklin.library.upenn.edu/catalog/FRANKLIN_9924550303503681> (1933 Semi-annual)
 
-* Atlas Des Colonies Et Domaines De La Jewish Colonization Association En République Argentine Et Au Brésil. Paris: Jewish Colonization Association, 1914.
-* <https://franklin.library.upenn.edu/catalog/FRANKLIN_9921334903503681>
-* Bardin, Shlomo, Pioneer Youth In Palestine. New York: Bloch, 1932.
-* <https://franklin.library.upenn.edu/catalog/FRANKLIN_9924089263503681>
 
 ### Baron de Hirsch Fund
 * Baron De Hirsch Fund: Trust Deed, Certificate of Incorporation, By-Laws, Members and Trustees. New York: The Oppenheimer Printing Company \[printers\], 1906.
@@ -78,7 +142,7 @@ title: Jewish Agrarian Holdings at Penn Libraries
 * Belkind, Israel, _Di Ershte Shrit Fun Yishev Erets Yisroel._ \[New York\]: "ha-Me'ir", 1917.
 <https://franklin.library.upenn.edu/catalog/FRANKLIN_9924089203503681>
 
-### Birobidzhan
+#### Birobidzhan
 * Iḳor Yor-Bukh. Nyu-Yorḳ: Natsyonaln Eḳzeḳuṭiṿ Ḳomiṭeṭ fun Iḳor, 1932
 <https://franklin.library.upenn.edu/catalog/FRANKLIN_9977925839503681>
 * Obshchestvo po zemelʹnomu ustroĭstvu trudi︠a︡shchikhsi︠a︡ evreev. \[Birobidzhan; Mosḳṿe : Farlag "Emes", 1932\]: <https://franklin.library.upenn.edu/catalog/FRANKLIN_9977613549703681> .
@@ -91,88 +155,20 @@ title: Jewish Agrarian Holdings at Penn Libraries
   * Sot︠s︡ialʹnoe Polozhenie i Urovenʹ Zhizni Naselenii︠a︡ Evreĭskoĭ Avtonomnoĭ Oblasti (n.p., nd). 
 * Zalbeferṭ, D., Y. Aniloviṭsh, S. Ḳadushin, and ג. קלעצקין. Birebidzshanish:
 
-
-* (ḳleyne Anṭologye Ṿegn Der Yidisher Aṿṭonomer Gegnṭ) Ṿilne : Druḳerey fun G. Ḳletsḳin, 1935:
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9977630051203681>
-* Brill, Yehiel, Yesud Ha-Maʻalah: Yesaper Mi-Teḥilat Ha-ʻaliyah She-ʻaliti Yaḥad ʻim Aḥad ʻaśar Ikarim Yehudim Le-Khonen Moshav Me-ʻovde Adamah Ba-Arets Ha-Ḳedoshah .... Magentsa: Y. Bril, 643 / 1883.
-* Borovoĭ, S. I︠A︡. Evreĭskai︠a︡ Zemledelʹcheskai︠a︡ Kolonizat︠s︡ii︠a︡ v Staroĭ Rossii: Politika, Ideologii︠a︡, Khozi︠a︡ĭstvo, Byt : Po Arkhivnym Materialam. Moskva: Izd. M. i S. Sabashnikovykh, 1928.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9924342233503681>
-* Curét, Albert, _History of the Woodbine Colony._ Woodbine, N.J.: The Woodbine children's clothing co., 1910.
-<https://franklin.library.upenn.edu/catalog/HATHI_oai-009600844>
-* Davidson, Gabriel, Our Jewish Farmers and the Story of the Jewish Agricultural Society. New York: L.B. Fischer, 1943.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9924076303503681>
-* Davidson, Gabriel. _His Ancestral Calling._ New York: American Jewish Committee, 1944.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9977253749603681>
-* Disḳin, Mordekhai, Ḳunṭres Maʼamar Mordekhai: ṿe-Hu Ki-Senif La-ḥoveret "divre Mordekhai" She-Hotseti Le-Or Bi-Shenat 649 ... Yedubar Bo Meha-ḥadashot She-Nitḥadshu Beha-Yishuv Mi-Shenat Ha-N. L. .. Yerushalayim : Y. D. Frumḳin, 672 \[1911 or 1912\].
-<https://franklin.library.upenn.edu/catalog/HATHI_oai-101826733>
-* Ettinger, Jacob, _Jewish Colonization In Palestine: Methods, Plans and Capital._ \[The Hague\]: Head Office of the Jewish National Fund, \[191-\].
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9924486323503681>
-* Gerts, Aharon. The Social Structure of Jewish Settlement In Palestine. 2d ed. Jerusalem: Rubin Mass, 1947. \[translated from Hebrew\].
-* Goldstein, Philip Reuben. Social Aspects of the Jewish Colonies of South Jersey. New York: The League printing co., inc., 1921.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9924093163503681>
-* Habas, Bracha, Ḥomah U-Migdal: Ha-Hityashvut Ha-Ḥadashah Bi-Shenot Ha-Matsor. Tel-Aviv: ha-Merkaz la-noʻar Histadrut ha-ʻovdim be-Erets-Yisraʾel, 699 / 1939.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9923840783503681>
-* \[Hebrew Emigrant Aid Society\]. Proceedings of the Conference of Hebrew Emigrant Aid Societies and Auxiliary Committees: Representing the Various Cities of the United States and Canada, New York, June 4th, 1882. New York: Davis, printer, 1882.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9969500543503681>
-* \[Hebrew Sheltering and Immigrant Aid Society\]. Sanders, Leon. Addresses Delivered At the Third Annual Meeting. New York: Hebrew Sheltering and Immigrant Aid Society, 1912.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9924304233503681>
-
-### Industrial Removal Office.
-#### Jewish Agricultural Society.
-
+#### Industrial Removal Office.
+##### Jewish Agricultural Society.
 * Annual Report. New York: Evening Post Job Print. Office. Holdings: 1924, 1926, 1931-1933, 1935, 1938.
 <https://franklin.library.upenn.edu/catalog/FRANKLIN_9923946063503681>
-
 * Annual Report of the General Manager. New York: Jewish Agricultural Society. Holdings: 1942-1947, 1949-1952, 1955-1959.
 <https://franklin.library.upenn.edu/catalog/FRANKLIN_9923946073503681>
 
-### Jewish Alliance of America
+#### Jewish Alliance of America
 * Independent Order of B'nai B'rith... \[et al\]. Official Correspondence Relating to Immigration of Russian Exiles. Washington: Geo. R. Gray printer, 1891.
 <https://franklin.library.upenn.edu/catalog/FRANKLIN_9923884673503681>
 
-* Joseph, Samuel, History of the Baron De Hirsch Fund: The Americanization of the Jewish Immigrant. \[Philadelphia\]: Printed for Baron de Hirsch fund by the Jewish publication Society, 1935.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9910389923503681>
-* Kann, J. H. Erez Israel: Das Jüdische Land. Köln: Jüdischer Verlag, 1909.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9924224183503681>
-* Klein, Moses. Migdal Tsofim: Tsofeh U-Mabiṭ ʻal Sheʾelat Ha-Yehudim U-Fitronah ʻal Yede ʻavodat Ha-Adamah. Philadelphia: \[s.n.\], 650 / 1889.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9923913453503681>
-* Levy, Louis Edward, The Russian Jewish Refugees In America: Considered In Connection with the General Subject of Immigration In Its Historical and Economic Aspects. Philadelphia: The Levytype Co., 1895.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9923880503503681> .
-* Margolis, Rose. History of the Industrial Removal Office: And a Study of Its Work As Revealed In Selected Correspondence, 1906-1922. New York, 1936.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9924329013503681>
-* Meerovitch, Manaché, Ha-Moshavot Ha-ʻivriyot Be-E\[rets\]-Yi\[śrael\]. 1919.
-* Mt. Nebo, New York (**Kestenbaum – locate**)
-* National Farm School materials: <https://franklin.library.upenn.edu/catalog?q=national+farm+school&search_field=keyword>
-* Nossig, Alfred, Leitende Ideen Der Allgemeinen Jüdischen Kolonisations-Organisation. Berlin: Herausgegeben vom Komitee der A.J.K.O., 1908.
-<https://franklin.library.upenn.edu/catalog/HATHI_oai-100931278>
-* Rezniḳ, Barukh, 50 Yor Idishe Ḳolonizatsye In Argenṭine_._ \[Buenos Ayres\]: Farlag "ʻAvodah", 1940.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9958417993503681>
-* Rosen, Joseph, A., James H Becker, and Felix M Warburg. After Three Years: The Progress of the Jewish Farm Colonies In Russia. New York: Issued by United Jewish Campaign, 1927.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9924490413503681>
-* Ruppin, Arthur, Der Aufbau Des Landes Israel: Ziele Und Wege Jüdischer Siedlungsarbeit In Palästina. Berlin: Jüdischer verlag, 1919.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_998228183503681>
-* Ruppin, Arthur, Ha-Hityashvut Ha-Ḥaklaʾit Shel Ha-Histadrut Ha-Tsiyonit Be-Erets Yisraʾel (668-684). Tel-Aviv: Hotsaʾat "Devir,", 1925.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9923753973503681>
-* Ruppin, Arthur, Die Landwirtschaftliche Kolonisation Der Zionistischen Organisation In Palästina. Berlin: "Aufbau", 1925.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9924026513503681>
-* Ruppin, Arthur, The Agricultural Colonisation of the Zionist Organisation In Palestine_._ Westport, Conn.: Hyperion Press, 1976. \[Translation of Die landwirtschaftliche Kolonisation der Zionist Organisation in Palästina. Reprint of the 1926 ed. published by M. Hopkinson, London\].
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_994478313503681>
-* Sicily Island (**Kestenbaum – locate**)
-* Soskin, S. E. Small Holding and Irrigation: The New Form of Settlement In Palestine_._ London: Published for the Jewish National Fund by Allen & Unwin, 1920.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9924485053503681>
-* Trietsch, Davis, Bilder Aus Palaestina. 2. Aufl. Berlin: Orient-verlag, 1911.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9924137243503681>
-* Wurm, Shalom. The Kvutza: The Structure, Problems, and Achievements of the Collective Settlements In Palestine. New York, N.Y. \[275 7th Ave.\]: Habonim, Labor Zionist Youth, 1942.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9924075573503681>
-* Yōvāl =: Yoval : a Symposium Upon the First Fifty Years of the Jewish Farming Colonies of Alliance, Norma and Brotmanville, New Jersey. \[New Jersey?\]: published in conjunction with the Golden jubilee and fiftieth anniversary reunion by the Committee on arrangements, 1932.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9923940633503681>
-* Zemach, Shlomo, Das Jüdische Dorf. Jerusalem: Keren Hajessod, 1932.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9977252453003681>
-* Zemach, Shlomo, Bereshit: Le-Toldot Ha-Hityashvut Ha-ʻovedet Ba-Arets. Tel Aviv: ʻAm ʻoved, 706 / 1946.
-<https://franklin.library.upenn.edu/catalog/FRANKLIN_9924599463503681>
+
 
 ## Serials
-
 * Der Yudisher farmer = The Jewish farmer. = ‏דער יודישער פארמער Nyu-Yorḳ : Herman Rozenṭhal, 1891-1892
 Holdings: Complete. Notes: "Monaṭlikhe tsayṭshrifṭ fir landṿirṭhshafṭlikhe ḳolonizatsyon."
 "Heroysgegeben fon Herman Rozenṭhal"--Nos. 1-8. "Heroysgegeben fon dem Agriḳulṭur byuro des Baron da-Hirsh fonds"--Nos. 9-12.
@@ -210,9 +206,7 @@ _All of these films are for research and teaching purposes only. They must not b
 ### Cyprus
 * Cyprus Agricultural Settlement
 ### Jamaica
-
 * Map of Jamaica (with Jewish plantations) surveyed under the direction by Governor Henry Moore, surveyed James Simpson and engineered by Thomas Craskell for the Kingdom of England, 1763 https://colenda.library.upenn.edu/catalog/81431-p3st7fk6z
-
 ### Suriname
 * https://colenda.library.upenn.edu/catalog/81431-p30g3h38c
 * https://colenda.library.upenn.edu/catalog/81431-p38s4jt66  
@@ -231,11 +225,8 @@ _All of these films are for research and teaching purposes only. They must not b
 
 #### Kansas
 
-
 #### North Dakota
 * [Ben Zion - 1891 Rand McNally & Co.'s North Dakota ](https://colenda.library.upenn.edu/catalog/81431-p3513vx4d)
-
-
 
 ## Photography and Postcard Collections:
 * Baron Holy Land Postcard Collection (not yet digitized)
@@ -245,7 +236,7 @@ _All of these films are for research and teaching purposes only. They must not b
 * Kaplan Collection of Early American Judaica photographic holdings.
 * Salzmann Photography Collection (Romania; Turkey).
 
-# Secondary Sources
+## Secondary Sources
 * Amit-Cohen, Irit. Ha-Ḥidah Me-Aḥore Ha-Beroshim: Ḥaṿot Ṿe-Ḥevrot Maṭaʻim Be-Mishor Ha-Ḥof Bi-Teḳufat Ha-Mandaṭ. Yerushalayim: Hotsaʾat sefarim ʻa. sh. Y. L. Magnes, Universiṭah ha-ʻIvrit, 2006.
 * Anner, Zeʼev. _Sipure Moshavot: Sipuran Shel Ḥamishim U-Shetayim Ha-Moshavot Be-E.y.._ \[Tel Aviv\]: Miśrad ha-biṭaḥon, 1996.
 * Avni, Haim. Argenṭinah, Ha-Arets Ha-Yeʻudah: Mifʻal Ha-Hityashvut Shel Ha-Baron Deh Hirsh Be-Argenṭinah. Jerusalem: Hotsaʾat sefarim ʻal shem Y.L. Magnes, ha-Universiṭah ha-ʻIvrit, 733 / 1973.
